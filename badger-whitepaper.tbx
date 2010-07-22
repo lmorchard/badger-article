@@ -465,8 +465,8 @@
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2010-07-22T11:00:00-04:00</attribute>
 <attribute name="Name" >Why does Mozilla need a Badger?</attribute>
-<attribute name="ReadCount" >408</attribute>
-<attribute name="SelectionCount" >372</attribute>
+<attribute name="ReadCount" >410</attribute>
+<attribute name="SelectionCount" >373</attribute>
 <attribute name="TextSidebar" >false</attribute>
 <attribute name="Twitter" >lmorchard</attribute>
 <attribute name="WindowPlace" >Rect[ 807 167 1387 818]</attribute>
@@ -503,15 +503,15 @@ This is easier said than done, but I have a hunch that something interesting can
 <attribute name="Created" >2010-07-22T09:09:00-04:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-07-22T11:12:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T11:52:00-04:00</attribute>
 <attribute name="Name" >What is Badger?</attribute>
-<attribute name="ReadCount" >19</attribute>
-<attribute name="SelectionCount" >49</attribute>
+<attribute name="ReadCount" >23</attribute>
+<attribute name="SelectionCount" >57</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >13</attribute>
 <attribute name="Ypos" >1</attribute>
 <attribute name="id" >108</attribute>
-<text >Badger is [an Open Source social web application under development][badger] that aims to support these features:* Artifacts of gratitude—i.e. badges—as [social objects][socialobjs] to exchanged, displayed, and discussed.* Showcasing community values through the things we collectively celebrate.* Public recognition of community members and their valued contributions.* Transparent, open processes for participating in creating, awarding, discussing, and evaluating badges.* Collaboration on badge creation through a &quot;Help Wanted&quot; system that presents minimal overhead for coordination and offers a playful space for creative contribution.* Mobile device support for awarding badges on the spot and expressing public gratitude in person.* Rule-based awards triggered by conditions detected out on the web.[socialobjs]: http://www.readwriteweb.com/archives/building_sites_around_social_objects_live_from_web.php[badger]: http://github.com/lmorchard/badger</text>
+<text >Badger is [an Open Source social web application under development][badger] that aims to support these features:* Artifacts of gratitude—i.e. badges—as [social objects][socialobjs] to exchanged, displayed, and discussed.* Showcasing community values through the things we collectively celebrate.* Public recognition of community members and their valued contributions.* Transparent, open processes for participating in creating, awarding, discussing, and evaluating badges.* Collaboration on badge creation through a &quot;Help Wanted&quot; system that presents minimal overhead for coordination and offers a playful space for creative contribution.* Mobile device support for awarding badges on the spot and expressing public gratitude in person.* Rule-based awards triggered by conditions detected on the web in the tools we use for work every day.[socialobjs]: http://www.readwriteweb.com/archives/building_sites_around_social_objects_live_from_web.php[badger]: http://github.com/lmorchard/badger</text>
 <styles >
  <tstyle font="Menlo Regular" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -525,18 +525,18 @@ This is easier said than done, but I have a hunch that something interesting can
 {\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Badger is [an Open Source social web application under development][badger] that aims to support these features:\par
 \par
 }{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Artifacts of gratitude\u8212 i.e. badges\u8212 as [social objects][socialobjs] to exchanged, displayed, and discussed.\par
-\par
-* Showcasing community values through the things we collectively celebrate.\par
-\par
-* Public recognition of community members and their valued contributions.\par
-\par
-* Transparent, open processes for participating in creating, awarding, discussing, and evaluating badges.\par
-\par
-* Collaboration on badge creation through a &quot;Help Wanted&quot; system that presents minimal overhead for coordination and offers a playful space for creative contribution.\par
-\par
-* Mobile device support for awarding badges on the spot and expressing public gratitude in person.\par
-\par
-* Rule-based awards triggered by conditions detected out on the web.\par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Showcasing community values through the things we collectively celebrate.\par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Public recognition of community members and their valued contributions.\par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Transparent, open processes for participating in creating, awarding, discussing, and evaluating badges.\par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Collaboration on badge creation through a &quot;Help Wanted&quot; system that presents minimal overhead for coordination and offers a playful space for creative contribution.\par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Mobile device support for awarding badges on the spot and expressing public gratitude in person.\par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Rule-based awards triggered by conditions detected on the web in the tools we use for work every day.\par
 }{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
 [socialobjs]: http://www.readwriteweb.com/archives/building_sites_around_social_objects_live_from_web.php\par
 [badger]: http://github.com/lmorchard/badger}}
@@ -592,8 +592,8 @@ And beyond what they assert, [badges are social objects][socialobjects]. People 
 <attribute name="Created" >2010-07-21T22:19:00-04:00</attribute>
 <attribute name="Modified" >2010-07-22T10:09:00-04:00</attribute>
 <attribute name="Name" >What do we value?</attribute>
-<attribute name="ReadCount" >37</attribute>
-<attribute name="SelectionCount" >90</attribute>
+<attribute name="ReadCount" >38</attribute>
+<attribute name="SelectionCount" >91</attribute>
 <attribute name="WindowPlace" >Rect[ 589 75 1196 656]</attribute>
 <attribute name="Xpos" >10</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -686,15 +686,15 @@ Also, consider that badges should be localizable\u8212 this could help bridge th
 </item>
 <item ID="3362600161" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T23:36:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T10:44:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T11:32:00-04:00</attribute>
 <attribute name="Name" >Talk amongst yourselves</attribute>
-<attribute name="ReadCount" >25</attribute>
-<attribute name="SelectionCount" >20</attribute>
+<attribute name="ReadCount" >27</attribute>
+<attribute name="SelectionCount" >28</attribute>
 <attribute name="WindowPlace" >Rect[ 644 100 1308 754]</attribute>
 <attribute name="Xpos" >5</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >106</attribute>
-<text >[&lt;img src=&quot;http://commons.wik.is/@api/deki/files/1/=firefox%20shirt.jpg?size=webview&quot; style=&quot;float: right; margin: 0 0 1em 1em; width: 33%&quot; /&gt;][fxshirt][fxshirt]: http://commonspace.wordpress.com/2008/06/18/the-next-million-mozillians/@@@@@@@@@@@@@@@@@@@This is one of the principles laid out in [the Mozilla Manifesto][manifesto]:&gt; &quot;Transparent community-based processes promote participation, accountability, and trust.&quot;And accordingly, badges as social objects should exist within precisely this sort of process. With the exception perhaps only of badges meant to be a surprise, everything should be open.Badges should be applauded, discussed, and left open to improvement with distributed editorial control. The community should be able to lift up badges that represent common values, and be empowered to help deflect abuse.[manifesto]: http://www.mozilla.org/about/manifesto.en.html</text>
+<text >[&lt;img src=&quot;http://commons.wik.is/@api/deki/files/1/=firefox%20shirt.jpg?size=webview&quot; style=&quot;float: right; margin: 0 0 1em 1em; width: 33%&quot; /&gt;][fxshirt][fxshirt]: http://commonspace.wordpress.com/2008/06/18/the-next-million-mozillians/This is one of the principles laid out in [the Mozilla Manifesto][manifesto]:&gt; &quot;Transparent community-based processes promote participation, accountability, and trust.&quot;And accordingly, badges as social objects should exist within precisely this sort of process. With the exception perhaps only of badges meant to be a surprise, everything should be open and visible to all.Badges should be subject to applause, discussion, and improvement with distributed editorial control. The community should be able to lift up badges that represent common values, and be empowered to help deflect abuse.[manifesto]: http://www.mozilla.org/about/manifesto.en.html</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -708,32 +708,28 @@ Also, consider that badges should be localizable\u8212 this could help bridge th
 {\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [&lt;img src=&quot;http://commons.wik.is/@api/deki/files/1/=firefox%20shirt.jpg?size=webview&quot; style=&quot;float: right; margin: 0 0 1em 1em; width: 33%&quot; /&gt;][fxshirt]\par
 [fxshirt]: http://commonspace.wordpress.com/2008/06/18/the-next-million-mozillians/\par
 \par
-\par
-@@@@@@@@@@@@@@@@@@@\par
-\par
-\par
 This is one of the principles laid out in [the Mozilla Manifesto][manifesto]:\par
 \par
 &gt; &quot;Transparent community-based processes promote participation, accountability, and trust.&quot;\par
 \par
-And accordingly, badges as social objects should exist within precisely this sort of process. With the exception perhaps only of badges meant to be a surprise, everything should be open.\par
+And accordingly, badges as social objects should exist within precisely this sort of process. With the exception perhaps only of badges meant to be a surprise, everything should be open and visible to all.\par
 \par
-Badges should be applauded, discussed, and left open to improvement with distributed editorial control. The community should be able to lift up badges that represent common values, and be empowered to help deflect abuse.\par
+Badges should be subject to applause, discussion, and improvement with distributed editorial control. The community should be able to lift up badges that represent common values, and be empowered to help deflect abuse.\par
 \par
 [manifesto]: http://www.mozilla.org/about/manifesto.en.html}}
 </rtf>
 </item>
 <item ID="3362597166" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T20:38:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T10:30:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T11:37:00-04:00</attribute>
 <attribute name="Name" >Help Wanted</attribute>
-<attribute name="ReadCount" >141</attribute>
-<attribute name="SelectionCount" >107</attribute>
+<attribute name="ReadCount" >143</attribute>
+<attribute name="SelectionCount" >115</attribute>
 <attribute name="WindowPlace" >Rect[ 699 86 1289 725]</attribute>
 <attribute name="Xpos" >3</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >92</attribute>
-<text >[&lt;img src=&quot;http://www.artzilla.org/wp-content/themes/artzilla/images/bg/zilla.png&quot; style=&quot;float:left; width: 18%; margin: 0 1em 1em 0&quot; /&gt;][artzilla][artzilla]: http://artzilla.org/At the summit, Guillermo Movia gave a lightning talk about [web stencils and street art applied to the web][art] and [Artzilla.org][artzilla]. That excited me about the creativity in our community. And then there&apos;s the participatory success of Personas and the flood of creative Firefox personalization seen happen.[art]: http://twitter.com/toniher/status/18056580738[artzilla]: http://artzilla.org/Mozilla has a long-running tradition of producing fun things to celebrate the community and its accomplishments. We have swag closets full of t-shirts, posters, stickers, and toys—both at the office and at home.When I got home from the summit, I thought: Wouldn&apos;t it be cool if we could keep that going in a distributed way? What if there was a way to get people together to craft virtual artifacts of gratitude for each other—i.e. badges—that were as playful and desirable as the physical swag we give away all the time?To make it work, the system has to do the heavy lifting to facilitate collaboration. Creating a badge shouldn&apos;t demand a conference call or meeting of any kind.So, the idea I had was a kind of &quot;Help Wanted&quot; system:* Badger can offer a &quot;Help Wanted&quot; search that cuts across aspects of badges associated with creative skill sets.* Have an idea for a badge? Create it and fill in as many details as you can, leave the rest marked &quot;Help Wanted&quot;, maybe with notes about your intentions.* Are you a designer? Can you make illustrations? Look for badges with artwork marked &quot;Help Wanted&quot; and submit contributions.* Artists could also contribute to a general library of clip art from which others could compose badge imagery as collages* Are you a writer? Look for badges with descriptions marked &quot;Help Wanted&quot; and contribute.* Are you a localizer? Look for badges marked &quot;Help Wanted&quot; in your native locales and offer localizationsIdeally, with some editorial controls put into the hands of individual badge creators—as opposed to entirely driven by top-level site administrators—this could result in a decentralized effort to create and improve badges with no need for synch-ups and minimal overhead to coordinate everyone.If the collaboration doesn&apos;t feel like work, we might just have some fun with it. And, of course, there will be badges for helping make badges.</text>
+<text >[&lt;img src=&quot;http://www.artzilla.org/wp-content/themes/artzilla/images/bg/zilla.png&quot; style=&quot;float:left; width: 18%; margin: 0 1em 1em 0&quot; /&gt;][artzilla][artzilla]: http://artzilla.org/At the summit, Guillermo Movia gave a lightning talk about [web stencils and street art applied to the web][art] and [Artzilla.org][artzilla]. That excited me about the creativity in our community. And then there&apos;s the participatory success of Personas and the flood of creative personalization received by that initiative.[art]: http://twitter.com/toniher/status/18056580738[artzilla]: http://artzilla.org/Mozilla has a long-running tradition of producing fun things to celebrate the community and its accomplishments. We have swag closets full of t-shirts, posters, stickers, and toys—both at the office and at home.When I got home from the summit, I thought: Wouldn&apos;t it be cool if we could keep that going in a distributed way? What if there was a way to get people together to craft virtual artifacts of gratitude for each other—i.e. badges—that were as playful and desirable as the physical swag we give away all the time?To make it work, the system has to do the heavy lifting to facilitate collaboration. Creating a badge shouldn&apos;t demand a conference call or meeting of any kind.So, the idea I had was a kind of &quot;Help Wanted&quot; system:* Badger can offer a &quot;Help Wanted&quot; search that cuts across aspects of badges associated with creative skill sets.* Have an idea for a badge? Create it and fill in as many details as you can, leave the rest marked &quot;Help Wanted&quot;, maybe with notes about your intentions.* Are you a designer? Can you make illustrations? Look for badges with artwork marked &quot;Help Wanted&quot; and submit contributions.* Artists could also contribute to a general library of clip art and stencils from which others could compose badge imagery as collages* Are you a writer? Look for badges with descriptions marked &quot;Help Wanted&quot; and contribute.* Are you a localizer? Look for badges marked &quot;Help Wanted&quot; in your native locales and offer localizationsIdeally, with some editorial controls put into the hands of individual badge creators—as opposed to being driven entirely by top-level moderators—this could result in a decentralized effort to create and improve badges with no need for synch-ups and minimal overhead to coordinate everyone.If the collaboration doesn&apos;t feel like work, we might just have some fun with it. And, of course, there will be badges for helping make badges.</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -747,7 +743,7 @@ Badges should be applauded, discussed, and left open to improvement with distrib
 {\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [&lt;img src=&quot;http://www.artzilla.org/wp-content/themes/artzilla/images/bg/zilla.png&quot; style=&quot;float:left; width: 18%; margin: 0 1em 1em 0&quot; /&gt;][artzilla]\par
 [artzilla]: http://artzilla.org/\par
 \par
-At the summit, Guillermo Movia gave a lightning talk about [web stencils and street art applied to the web][art] and [Artzilla.org][artzilla]. That excited me about the creativity in our community. And then there&apos;s the participatory success of Personas and the flood of creative Firefox personalization seen happen.\par
+At the summit, Guillermo Movia gave a lightning talk about [web stencils and street art applied to the web][art] and [Artzilla.org][artzilla]. That excited me about the creativity in our community. And then there&apos;s the participatory success of Personas and the flood of creative personalization received by that initiative.\par
 \par
 [art]: http://twitter.com/toniher/status/18056580738\par
 [artzilla]: http://artzilla.org/\par
@@ -763,11 +759,11 @@ So, the idea I had was a kind of &quot;Help Wanted&quot; system:\par
 }{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Badger can offer a &quot;Help Wanted&quot; search that cuts across aspects of badges associated with creative skill sets.\par
 * Have an idea for a badge? Create it and fill in as many details as you can, leave the rest marked &quot;Help Wanted&quot;, maybe with notes about your intentions.\par
 * Are you a designer? Can you make illustrations? Look for badges with artwork marked &quot;Help Wanted&quot; and submit contributions.\par
-* Artists could also contribute to a general library of clip art from which others could compose badge imagery as collages\par
+* Artists could also contribute to a general library of clip art and stencils from which others could compose badge imagery as collages\par
 * Are you a writer? Look for badges with descriptions marked &quot;Help Wanted&quot; and contribute.\par
 * Are you a localizer? Look for badges marked &quot;Help Wanted&quot; in your native locales and offer localizations\par
 }{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
-Ideally, with some editorial controls put into the hands of individual badge creators\u8212 as opposed to entirely driven by top-level site administrators\u8212 this could result in a decentralized effort to create and improve badges with no need for synch-ups and minimal overhead to coordinate everyone.\par
+Ideally, with some editorial controls put into the hands of individual badge creators\u8212 as opposed to being driven entirely by top-level moderators\u8212 this could result in a decentralized effort to create and improve badges with no need for synch-ups and minimal overhead to coordinate everyone.\par
 \par
 If the collaboration doesn&apos;t feel like work, we might just have some fun with it. \par
 \par
@@ -776,15 +772,15 @@ And, of course, there will be badges for helping make badges.}}
 </item>
 <item ID="3362597168" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T22:43:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T10:46:00-04:00</attribute>
-<attribute name="Name" >In person (or, mobile)</attribute>
-<attribute name="ReadCount" >39</attribute>
-<attribute name="SelectionCount" >53</attribute>
+<attribute name="Modified" >2010-07-22T11:20:00-04:00</attribute>
+<attribute name="Name" >On the spot (or, mobile support)</attribute>
+<attribute name="ReadCount" >47</attribute>
+<attribute name="SelectionCount" >74</attribute>
 <attribute name="WindowPlace" >Rect[ 615 76 1272 798]</attribute>
 <attribute name="Xpos" >2.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >98</attribute>
-<text >[&lt;img src=&quot;img/foursquare_badges.jpg&quot; style=&quot;float:right; height: 18em; margin: 0 0 1em 1em &quot;/&gt;][foursquarebadges][foursquarebadges]: http://www.flickr.com/photos/dpstyles/3367761841/in/photostream/As social objects, badges on the web will be identified by URLs and can bookmarked. People and badges can also be given shorter identifiers that are friendlier for typing on mobile devices.Imagine that someone does something at an event that you really like—say it&apos;s a science fair demo or a lightning talk. You could pull out your smartphone and nominate them for a bookmarked badge on the spot. If you don&apos;t know their name or have them bookmarked in Badger, a glance at their name tag could give you a 6-letter code to tap into a form, and that completes the nomination. Maybe it could even be a QR code on their event badge that you snap a picture of to submit the badge nomination.Or, say a speaker at a breakout session wants to engage the audience by handing out badges. The speaker could offer a code that represents a ready-made nomination for *you*, as the reverse of the previous scenario. This is kind of like the location-based &quot;check-in&quot; offered by Foursquare and others, only tied to a more abstract event or happening.</text>
+<text >[&lt;img src=&quot;img/foursquare_badges.jpg&quot; style=&quot;float:right; height: 18em; margin: 0 0 1em 1em &quot;/&gt;][foursquarebadges][foursquarebadges]: http://www.flickr.com/photos/dpstyles/3367761841/in/photostream/Imagine that someone does something at an event that you really like—say it&apos;s a science fair demo or a lightning talk. You could pull out your smartphone and nominate them for a badge on the spot. Or, say a speaker at a breakout session wants to engage the audience by handing out badges. The speaker could offer a code that represents a ready-made nomination for *you*, as the reverse of the previous scenario. This is kind of like the location-based &quot;check-in&quot; offered by Foursquare and others, only tied to a more abstract event or happening.As social objects, badges on the web are identified by URLs and can bookmarked and shared. People and badges can also be given shorter identifiers that are friendlier for typing on mobile devices.If you don&apos;t have someone&apos;s profile in Badger bookmarked, a glance at their name tag could give you a short user name or code to tap into a nomination form. Maybe it could even be a QR code on their event badge that you snap a picture of to submit the badge nomination.</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="200" size="14" height="0" ascent="0" color="#000000"  />
@@ -799,28 +795,28 @@ And, of course, there will be badges for helping make badges.}}
 {\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [&lt;img src=&quot;img/foursquare_badges.jpg&quot; style=&quot;float:right; height: 18em; margin: 0 0 1em 1em &quot;/&gt;][foursquarebadges]\par
 [foursquarebadges]: http://www.flickr.com/photos/dpstyles/3367761841/in/photostream/\par
 {\fs28 \par
-As social objects, badges on the web will be identified by URLs and can bookmarked. People and badge}{\fs28 s can also b}{\fs28 e }{\fs28 given sh}{\fs28 orter identifiers that are friendlier for typing on mobile devices.\par
-\par
-Imagine that someone does something at an event that you really like\u8212 say it&apos;s a science fair demo or a lightning talk. You could pull }{\fs28 out you}{\fs28 r smartphone and nomi}{\fs28 nate the}{\fs28 m for a bo}{\fs28 okmarked bad}{\fs28 ge on the spot. \par
-\par
-If you don&apos;t know their name or have them bookmarked in Badger, a glance at their name tag could give you a 6-letter code to tap into a form, and that completes the nomination. Maybe it could even be a QR code on their event badge that you snap a picture of to submit the badge nomination.\par
+Imagine that someone does something at an event that you really like\u8212 say it&apos;s a science fair demo or a lightning talk. You could pull out your smartphone and nominate them for a badge on the spot. \par
 \par
 Or, say a speaker at a breakout session wants to engage the audience by handing out badges. The speaker could offer a code that represents a ready-made nomination for *you*, as the reverse of the previous scenario. This is kind of like the location-based &quot;check-in&quot; offered by Foursquare and others, only tied to a more abstract event or happening.\par
+\par
+As social objects, badges on the web are identified by URLs and can bookmarked and shared. People and badges can also be given shorter identifiers that are friendlier for typing on mobile devices.\par
+\par
+If you don&apos;t have someone&apos;s profile in Badger bookmarked, a glance at their name tag could give you a short user name or code to tap into a nomination form. Maybe it could even be a QR code on their event badge that you snap a picture of to submit the badge nomination.\par
 \par
 }}}
 </rtf>
 </item>
 <item ID="3362597167" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T20:16:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T10:43:00-04:00</attribute>
-<attribute name="Name" >Decision makers and lazy achievements</attribute>
-<attribute name="ReadCount" >31</attribute>
-<attribute name="SelectionCount" >61</attribute>
+<attribute name="Modified" >2010-07-22T11:25:00-04:00</attribute>
+<attribute name="Name" >Decision makers and laziness</attribute>
+<attribute name="ReadCount" >35</attribute>
+<attribute name="SelectionCount" >72</attribute>
 <attribute name="WindowPlace" >Rect[ 683 97 1326 797]</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >79</attribute>
-<text >At first, many badges will be people-powered in the awards process:* Bob creates a badge named &quot;Monkey Wrangler&quot;.* Tom nominates Bill to be awarded the &quot;Monkey Wrangler&quot; badge.* Bob sees the nomination, decides that Bill is indeed a wrangler of monkeys, and approves Tom&apos;s nomination* Bill sees that he&apos;s eligible to claim the &quot;Monkey Wrangler&quot; badge, and adds it to his collection.But, as a lazy coder, anything I do more than twice gives me an irresistible urge to write a script. And, as a gamer, I love the little thrill of satisfying the requirements for [an achievement on my Xbox 360][achievement].[&lt;img src=&quot;img/monkey_achievement.png&quot; style=&quot;display: block; margin: 1em auto 1em auto&quot; /&gt;][a_generator][a_generator]: http://achievements.schrankmonster.de/Let&apos;s say that Bob considers a &quot;Monkey Wrangler&quot; anyone who&apos;s fixed 25 bugs on the new FunkyMonkey JavaScript engine. So, we can build a system that watches bugs and keeps count. Once Bill has met the requirements for Bob&apos;s badge, the nomination and approval happen automatically and goes straight to Bob&apos;s inbox to be claimed.[Mozilla Pulse][pulse] and [LizardFeeder][] are systems that could play a part in this, feeding events into the badge system that could eventually be turned into automated &quot;thank you&quot; badges to contributors.I&apos;m not entirely sure how things in this area will work out, but I&apos;d like to build a system here that allows non-programmers to declare conditions for achievements and monitor those conditions on any web site or service.[pulse]: http://pulse.mozilla.org/[achievement]: http://www.xbox.com/en-US/live/engineeringblog/achievements-unlocked.htm[lizardfeeder]: http://feeds.mozilla.com/</text>
+<text >At first, many badges will be people-powered in the awards process:1. Bob creates a badge named &quot;Monkey Wrangler&quot;.2. Tom nominates Bill to be awarded the &quot;Monkey Wrangler&quot; badge.3. Bob sees the nomination, decides that Bill is indeed a wrangler of monkeys, and approves Tom&apos;s nomination.4. Bill sees that he&apos;s eligible to claim the &quot;Monkey Wrangler&quot; badge, and adds it to his collection.But, as a lazy coder, anything I do more than twice gives me an irresistible urge to write a script. And, as a gamer, I love the little thrill of satisfying the requirements for [an achievement on my Xbox 360][achievement].[&lt;img src=&quot;img/monkey_achievement.png&quot; style=&quot;display: block; margin: 1em auto 1em auto&quot; /&gt;][a_generator][a_generator]: http://achievements.schrankmonster.de/Let&apos;s say that Bob considers a &quot;Monkey Wrangler&quot; anyone who&apos;s fixed 25 bugs on the new FunkyMonkey JavaScript engine. So, we can build a system that watches bugs and keeps count, and Bob can build this into his badge. Once Bill has met the requirements for Bob&apos;s badge, the nomination and approval happen automatically and goes straight to Bob&apos;s inbox to be claimed.[Mozilla Pulse][pulse] and [LizardFeeder][] are systems that could play a part in this, feeding events into the badge system that could eventually be turned into automated &quot;thank you&quot; badges to contributors.I&apos;m not entirely sure how things in this area will work out, but I&apos;d like to build a system here that allows non-programmers to declare conditions for achievements and monitor those conditions on any web site or service. On the other hand, this could be an area where &quot;Help Wanted&quot; can connect people with badge ideas to people with badge programming skills.[pulse]: http://pulse.mozilla.org/[achievement]: http://www.xbox.com/en-US/live/engineeringblog/achievements-unlocked.htm[lizardfeeder]: http://feeds.mozilla.com/</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -833,21 +829,23 @@ Or, say a speaker at a breakout session wants to engage the audience by handing 
 \deftab720
 {\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 At first, many badges will be people-powered in the awards process:\par
 \par
-}{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Bob creates a badge named &quot;Monkey Wrangler&quot;.\par
-* Tom nominates Bill to be awarded the &quot;Monkey Wrangler&quot; badge.\par
-* Bob sees the nomination, decides that Bill is indeed a wrangler of monkeys, and approves Tom&apos;s nomination\par
-* Bill sees that he&apos;s eligible to claim the &quot;Monkey Wrangler&quot; badge, and adds it to his collection.\par
-}{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+1. Bob creates a badge named &quot;Monkey Wrangler&quot;.\par
+2. Tom nominates Bill to be awarded the &quot;Monkey Wrangler&quot; badge.\par
+3. Bob sees the nomination, decides that Bill is indeed a wrangler of monkeys, and approves Tom&apos;s nomination.\par
+4. Bill sees that he&apos;s eligible to claim the &quot;Monkey Wrangler&quot; badge, and adds it to his collection.\par
+\par
 But, as a lazy coder, anything I do more than twice gives me an irresistible urge to write a script. And, as a gamer, I love the little thrill of satisfying the requirements for [an achievement on my Xbox 360][achievement].\par
 \par
 [&lt;img src=&quot;img/monkey_achievement.png&quot; style=&quot;display: block; margin: 1em auto 1em auto&quot; /&gt;][a_generator]\par
 [a_generator]: http://achievements.schrankmonster.de/\par
 \par
-Let&apos;s say that Bob considers a &quot;Monkey Wrangler&quot; anyone who&apos;s fixed 25 bugs on the new FunkyMonkey JavaScript engine. So, we can build a system that watches bugs and keeps count. Once Bill has met the requirements for Bob&apos;s badge, the nomination and approval happen automatically and goes straight to Bob&apos;s inbox to be claimed.\par
+Let&apos;s say that Bob considers a &quot;Monkey Wrangler&quot; anyone who&apos;s fixed 25 bugs on the new FunkyMonkey JavaScript engine. So, we can build a system that watches bugs and keeps count, and Bob can build this into his badge. Once Bill has met the requirements for Bob&apos;s badge, the nomination and approval happen automatically and goes straight to Bob&apos;s inbox to be claimed.\par
 \par
 [Mozilla Pulse][pulse] and [LizardFeeder][] are systems that could play a part in this, feeding events into the badge system that could eventually be turned into automated &quot;thank you&quot; badges to contributors.\par
 \par
-I&apos;m not entirely sure how things in this area will work out, but I&apos;d like to build a system here that allows non-programmers to declare conditions for achievements and monitor those conditions on any web site or service.\par
+I&apos;m not entirely sure how things in this area will work out, but I&apos;d like to build a system here that allows non-programmers to declare conditions for achievements and monitor those conditions on any web site or service. \par
+\par
+On the other hand, this could be an area where &quot;Help Wanted&quot; can connect people with badge ideas to people with badge programming skills.\par
 \par
 [pulse]: http://pulse.mozilla.org/\par
 [achievement]: http://www.xbox.com/en-US/live/engineeringblog/achievements-unlocked.htm\par
@@ -856,15 +854,15 @@ I&apos;m not entirely sure how things in this area will work out, but I&apos;d l
 </item>
 <item ID="3362599201" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T23:20:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T10:58:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T11:36:00-04:00</attribute>
 <attribute name="Name" >Meta-Badges</attribute>
-<attribute name="ReadCount" >4</attribute>
-<attribute name="SelectionCount" >25</attribute>
+<attribute name="ReadCount" >6</attribute>
+<attribute name="SelectionCount" >38</attribute>
 <attribute name="WindowPlace" >Rect[ 639 114 1325 772]</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >105</attribute>
-<text >Some badges could be awarded for collecting a set of other badges. Let&apos;s say you get a unique badge for every [Test Day][testday] attended. After 10 of these, you get a &quot;Test Day Hero&quot; badge. The same could apply to questions answered on [support.mozilla.org][support], or anything that helps the community over time.[&lt;img src=&quot;http://www.heroesnomore.com/img/25uldglory.png&quot; style=&quot;width: 75%; margin: 1em auto 1em auto; display: block&quot; /&gt;](http://www.heroesnomore.com/)As pictured above, this is a concept familiar to World of Warcraft players. In some cases, players stick with the game just to complete these overarching goals, making them an interesting way to encourage and reward complex and long-term activities.[support]: http://support.mozilla.org/[testday]: http://quality.mozilla.org/</text>
+<text >Some badges could be awarded for collecting a set of other badges. Let&apos;s say you get a unique badge for every [Test Day][testday] attended. After 10 of these, you get a &quot;Test Day Hero&quot; badge. The same could apply to questions answered on [support.mozilla.org][support], or anything that helps the community over time.[&lt;img src=&quot;http://www.heroesnomore.com/img/25uldglory.png&quot; style=&quot;width: 75%; margin: 1em auto 1em auto; display: block&quot; /&gt;](http://www.heroesnomore.com/)As pictured above, this is a concept familiar to World of Warcraft players. In many cases, players stick with the game just to complete these overarching goals, whether or not they have a direct bearing on the central story or progression through the game. (e.g. There are meta-badges in WoW for collecting pets.) This makes meta-badges them an interesting way to reward complex and long-term activities.[support]: http://support.mozilla.org/[testday]: http://quality.mozilla.org/</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -875,11 +873,13 @@ I&apos;m not entirely sure how things in this area will work out, but I&apos;d l
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Some badges could be awarded for collecting a set of other badges. Let&apos;s say you get a unique badge for every [Test Day][testday] attended. After 10 of these, you get a &quot;Test Day Hero&quot; badge. The same could apply to questions answered on [support.mozilla.org][support], or anything that helps the community over time.\par
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Some badges could be awarded for collecting a set of other badges. \par
+\par
+Let&apos;s say you get a unique badge for every [Test Day][testday] attended. After 10 of these, you get a &quot;Test Day Hero&quot; badge. The same could apply to questions answered on [support.mozilla.org][support], or anything that helps the community over time.\par
 \par
 [&lt;img src=&quot;http://www.heroesnomore.com/img/25uldglory.png&quot; style=&quot;width: 75%; margin: 1em auto 1em auto; display: block&quot; /&gt;](http://www.heroesnomore.com/)\par
 \par
-As pictured above, this is a concept familiar to World of Warcraft players. In some cases, players stick with the game just to complete these overarching goals, making them an interesting way to encourage and reward complex and long-term activities.\par
+As pictured above, this is a concept familiar to World of Warcraft players. In many cases, players stick with the game just to complete these overarching goals, whether or not they have a direct bearing on the central story or progression through the game. (e.g. There are meta-badges in WoW for collecting pets.) This makes meta-badges them an interesting way to reward complex and long-term activities.\par
 \par
 [support]: http://support.mozilla.org/\par
 [testday]: http://quality.mozilla.org/}}
@@ -887,15 +887,15 @@ As pictured above, this is a concept familiar to World of Warcraft players. In s
 </item>
 <item ID="3362600761" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T23:46:00-04:00</attribute>
-<attribute name="Modified" >2010-07-21T23:48:00-04:00</attribute>
-<attribute name="Name" >Open source, open APIs</attribute>
-<attribute name="ReadCount" >3</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="Modified" >2010-07-22T11:44:00-04:00</attribute>
+<attribute name="Name" >Open Source, Open Web</attribute>
+<attribute name="ReadCount" >4</attribute>
+<attribute name="SelectionCount" >27</attribute>
 <attribute name="WindowPlace" >Rect[ 616 181 1223 763]</attribute>
 <attribute name="Xpos" >4.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >107</attribute>
-<text >If built, this thing will be Open Source, and it will offer mashable open APIs. Organizations and groups outside of Mozilla should be able to host their own badge ecosystems and improve our code. Apps should be feasible that report on badge activity and participate in the whole process.</text>
+<text >[Badger is Open Source][github]. If other communities want to host their own Badger and build badges as social objects, they can. I&apos;ll welcome patches and pull requests to improve the code.And, beyond that, I want Badger to expose open APIs that welcome mashups, hacks, and external apps. A desktop notifier that announces newly awarded badges with fanfare would be awesome. Widgets for displaying badge collections on personal sites would be great.There should be plenty of room here for Badger to be a part of the Open Web. And, perhaps more importantly, Badger should rely on other services as much as possible so that it remains focused. This project doesn&apos;t aim to replace Facebook or Twitter or Bugzilla or wikis—it aims only to augment those services with artifacts of gratitude as social objects.[github]: http://github.com/lmorchard/badger</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -906,20 +906,27 @@ As pictured above, this is a concept familiar to World of Warcraft players. In s
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 If built, this thing will be Open Source, and it will offer mashable open APIs. Organizations and groups outside of Mozilla should be able to host their own badge ecosystems and improve our code. Apps should be feasible that report on badge activity and participate in the whole process.}}
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [Badger is Open Source][github]. If other communities want to host their own Badger and build badges as social objects, they can. I&apos;ll welcome patches and pull requests to improve the code.\par
+\par
+And, beyond that, I want Badger to expose open APIs that welcome mashups, hacks, and external apps. A desktop notifier that announces newly awarded badges with fanfare would be awesome. Widgets for displaying badge collections on personal sites would be great.\par
+\par
+There should be plenty of room here for Badger to be a part of the Open Web. And, perhaps more importantly, Badger should rely on other services as much as possible so that it remains focused. This project doesn&apos;t aim to replace Facebook or Twitter or Bugzilla or wikis\u8212 it aims only to augment those services with artifacts of gratitude as social objects.\par
+\par
+[github]: http://github.com/lmorchard/badger\par
+}}
 </rtf>
 </item>
 <item ID="3362598001" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T23:00:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T10:00:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T11:46:00-04:00</attribute>
 <attribute name="Name" >The Next Million Mozillians</attribute>
-<attribute name="ReadCount" >24</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="ReadCount" >25</attribute>
+<attribute name="SelectionCount" >21</attribute>
 <attribute name="WindowPlace" >Rect[ 612 84 1267 754]</attribute>
 <attribute name="Xpos" >6.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >104</attribute>
-<text >This whole time, when I&apos;ve been mentioning &quot;our community&quot;, what I&apos;ve had in mind is that slide of Boy Scouts all gathered together and the idea of [the Next Million Mozillians][millionmozillians]. These badges are for every Mozillian, not just employees or volunteers who&apos;ve uploaded a patch to Bugzilla.[millionmozillians]: http://commonspace.wordpress.com/2008/06/18/the-next-million-mozillians/It might be a bit much, but what if everyone hitting our download pages could get an &quot;I downloaded Firefox&quot; badge like the stickers and certificates made for [Download Day in 2008][downloadday]? Or say we awarded a badge the first time someone downloaded and built the Firefox source tree? Or built an add-on? Or uploaded a Persona? Or helped clean up after a party in Mozilla HQ, but worked at Google?[downloadday]: http://www.spreadfirefox.com/en-US/worldrecord/</text>
+<text >This whole time, when I&apos;ve been mentioning &quot;our community&quot;, what I&apos;ve had in mind is that slide of Boy Scouts all gathered together and the idea of [the Next Million Mozillians][millionmozillians]. These badges are for every one who supports the Open Web, not just employees or volunteers who&apos;ve uploaded a patch to Bugzilla.[millionmozillians]: http://commonspace.wordpress.com/2008/06/18/the-next-million-mozillians/It might be a bit much, but what if everyone hitting our download pages could get an &quot;I downloaded Firefox&quot; badge like the stickers and certificates made for [Download Day in 2008][downloadday]? Or say we awarded a badge the first time someone downloaded and built the Firefox source tree? Or built an add-on? Or uploaded a Persona? Or helped clean up after a party in Mozilla HQ, even though he or she worked at Google?Badger is aimed at wrapping up community values in social objects and then letting everyone on the Open Web in to play.[downloadday]: http://www.spreadfirefox.com/en-US/worldrecord/</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -930,11 +937,13 @@ As pictured above, this is a concept familiar to World of Warcraft players. In s
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 This whole time, when I&apos;ve been mentioning &quot;our community&quot;, what I&apos;ve had in mind is that slide of Boy Scouts all gathered together and the idea of [the Next Million Mozillians][millionmozillians]. These badges are for every Mozillian, not just employees or volunteers who&apos;ve uploaded a patch to Bugzilla.\par
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 This whole time, when I&apos;ve been mentioning &quot;our community&quot;, what I&apos;ve had in mind is that slide of Boy Scouts all gathered together and the idea of [the Next Million Mozillians][millionmozillians]. These badges are for every one who supports the Open Web, not just employees or volunteers who&apos;ve uploaded a patch to Bugzilla.\par
 \par
 [millionmozillians]: http://commonspace.wordpress.com/2008/06/18/the-next-million-mozillians/\par
 \par
-It might be a bit much, but what if everyone hitting our download pages could get an &quot;I downloaded Firefox&quot; badge like the stickers and certificates made for [Download Day in 2008][downloadday]? Or say we awarded a badge the first time someone downloaded and built the Firefox source tree? Or built an add-on? Or uploaded a Persona? Or helped clean up after a party in Mozilla HQ, but worked at Google?\par
+It might be a bit much, but what if everyone hitting our download pages could get an &quot;I downloaded Firefox&quot; badge like the stickers and certificates made for [Download Day in 2008][downloadday]? Or say we awarded a badge the first time someone downloaded and built the Firefox source tree? Or built an add-on? Or uploaded a Persona? Or helped clean up after a party in Mozilla HQ, even though he or she worked at Google?\par
+\par
+Badger is aimed at wrapping up community values in social objects and then letting everyone on the Open Web in to play.\par
 \par
 [downloadday]: http://www.spreadfirefox.com/en-US/worldrecord/\par
 }}
@@ -942,15 +951,15 @@ It might be a bit much, but what if everyone hitting our download pages could ge
 </item>
 <item ID="3362597169" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T20:42:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T09:07:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T11:54:00-04:00</attribute>
 <attribute name="Name" >Summary</attribute>
-<attribute name="ReadCount" >22</attribute>
-<attribute name="SelectionCount" >11</attribute>
+<attribute name="ReadCount" >25</attribute>
+<attribute name="SelectionCount" >37</attribute>
 <attribute name="WindowPlace" >Rect[ 678 153 1358 765]</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >95</attribute>
-<text >For me, personally, this whole thing is a way to overcome my own shortcomings. I&apos;m in awe of everyone in the Mozilla community, but there&apos;s not enough time in the world for me to work out the best way to thank each individual personally and then go out and do it.So, I&apos;d like to thank everyone at Mozilla by building a thing that lets everyone thank everyone else in a shared and open space.</text>
+<text >Badges can represent our community values as social objects to be crafted, discussed, and gifted as artifacts of gratitude. Each aspect of this process can help celebrate what our community is all about, while at the same time offering public recognition to individuals.For me, personally, Badger is a notion to overcome my own shortcomings. I&apos;m in awe of everyone in the Mozilla community, but there&apos;s not enough time in the world to thank everyone personally. So, instead I&apos;d like to solve that problem by building something that enables everyone to thank everyone else in a shared and open space. It might sound a bit hokey and precious, and maybe there&apos;d be a danger of broken arms from all the patting ourselves on the backs—but I think the sentiments are genuine and the proper tools could tap into some surprising creativity in our community.</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -961,9 +970,12 @@ It might be a bit much, but what if everyone hitting our download pages could ge
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 For me, personally, this whole thing is a way to overcome my own shortcomings. I&apos;m in awe of everyone in the Mozilla community, but there&apos;s not enough time in the world for me to work out the best way to thank each individual personally and then go out and do it.\par
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Badges can represent our community values as social objects to be crafted, discussed, and gifted as artifacts of gratitude. Each aspect of this process can help celebrate what our community is all about, while at the same time offering public recognition to individuals.\par
 \par
-So, I&apos;d like to thank everyone at Mozilla by building a thing that lets everyone thank everyone else in a shared and open space.\par
+For me, personally, Badger is a notion to overcome my own shortcomings. I&apos;m in awe of everyone in the Mozilla community, but there&apos;s not enough time in the world to thank everyone personally. So, instead I&apos;d like to solve that problem by building something that enables everyone to thank everyone else in a shared and open space. \par
+\par
+It might sound a bit hokey and precious, and maybe there&apos;d be a danger of broken arms from all the patting ourselves on the backs\u8212 but I think the sentiments are genuine and the proper tools could tap into some surprising creativity in our community.\par
+\par
 }}
 </rtf>
 </item>
@@ -1704,6 +1716,6 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </preferences>
 <windows >
 <window ID="3358681308" Creator="lmorchard" type="outline" bounds="Rect[ 64 61 570 766]" x="0" y="0" scale="5" expanded="3358681308 3358681341 3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 " collapsed="3362634541 3358681335 3359203949 "  />
-<window ID="3362634541" Creator="lmorchard" type="explorer" bounds="Rect[ 238 75 1231 875]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 3362634541 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
+<window ID="3362597169" Creator="lmorchard" type="explorer" bounds="Rect[ 238 75 1196 877]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 3362634541 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
 </windows>
 </tinderbox>
