@@ -808,15 +808,15 @@ If you don&apos;t have someone&apos;s profile in Badger bookmarked, a glance at 
 </item>
 <item ID="3362597167" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T20:16:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T11:25:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T12:53:00-04:00</attribute>
 <attribute name="Name" >Decision makers and laziness</attribute>
-<attribute name="ReadCount" >35</attribute>
-<attribute name="SelectionCount" >72</attribute>
+<attribute name="ReadCount" >36</attribute>
+<attribute name="SelectionCount" >73</attribute>
 <attribute name="WindowPlace" >Rect[ 683 97 1326 797]</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >79</attribute>
-<text >At first, many badges will be people-powered in the awards process:1. Bob creates a badge named &quot;Monkey Wrangler&quot;.2. Tom nominates Bill to be awarded the &quot;Monkey Wrangler&quot; badge.3. Bob sees the nomination, decides that Bill is indeed a wrangler of monkeys, and approves Tom&apos;s nomination.4. Bill sees that he&apos;s eligible to claim the &quot;Monkey Wrangler&quot; badge, and adds it to his collection.But, as a lazy coder, anything I do more than twice gives me an irresistible urge to write a script. And, as a gamer, I love the little thrill of satisfying the requirements for [an achievement on my Xbox 360][achievement].[&lt;img src=&quot;img/monkey_achievement.png&quot; style=&quot;display: block; margin: 1em auto 1em auto&quot; /&gt;][a_generator][a_generator]: http://achievements.schrankmonster.de/Let&apos;s say that Bob considers a &quot;Monkey Wrangler&quot; anyone who&apos;s fixed 25 bugs on the new FunkyMonkey JavaScript engine. So, we can build a system that watches bugs and keeps count, and Bob can build this into his badge. Once Bill has met the requirements for Bob&apos;s badge, the nomination and approval happen automatically and goes straight to Bob&apos;s inbox to be claimed.[Mozilla Pulse][pulse] and [LizardFeeder][] are systems that could play a part in this, feeding events into the badge system that could eventually be turned into automated &quot;thank you&quot; badges to contributors.I&apos;m not entirely sure how things in this area will work out, but I&apos;d like to build a system here that allows non-programmers to declare conditions for achievements and monitor those conditions on any web site or service. On the other hand, this could be an area where &quot;Help Wanted&quot; can connect people with badge ideas to people with badge programming skills.[pulse]: http://pulse.mozilla.org/[achievement]: http://www.xbox.com/en-US/live/engineeringblog/achievements-unlocked.htm[lizardfeeder]: http://feeds.mozilla.com/</text>
+<text >At first, many badges will be people-powered in the awards process:1. Bob creates a badge named &quot;Monkey Wrangler&quot;.2. Tom nominates Joe to be awarded the &quot;Monkey Wrangler&quot; badge.3. Bob sees the nomination, decides that Joe is indeed a wrangler of monkeys, and approves Tom&apos;s nomination.4. Joe sees that he&apos;s eligible to claim the &quot;Monkey Wrangler&quot; badge, and adds it to his collection.But, as a lazy coder, anything I do more than twice gives me an irresistible urge to write a script. And, as a gamer, I love the little thrill of satisfying the requirements for [an achievement on my Xbox 360][achievement].[&lt;img src=&quot;img/monkey_achievement.png&quot; style=&quot;display: block; margin: 1em auto 1em auto&quot; /&gt;][a_generator][a_generator]: http://achievements.schrankmonster.de/Let&apos;s say that Bob considers a &quot;Monkey Wrangler&quot; anyone who&apos;s fixed 25 bugs on the new FunkyMonkey JavaScript engine. So, we can build a system that watches bugs and keeps count, and Bob can build this into his badge. Once Joe has met the requirements for Bob&apos;s badge, the nomination and approval happen automatically and the award goes straight to Joe&apos;s inbox to be claimed.[Mozilla Pulse][pulse] and [LizardFeeder][] are systems that could play a part in this, feeding events into the badge system that could eventually be turned into automated &quot;thank you&quot; badges to contributors.I&apos;m not entirely sure how things in this area will work out, but I&apos;d like to build a system here that allows non-programmers to declare conditions for achievements and monitor those conditions on any web site or service. On the other hand, this could be an area where &quot;Help Wanted&quot; can connect people with badge ideas to people with badge programming skills.[pulse]: http://pulse.mozilla.org/[achievement]: http://www.xbox.com/en-US/live/engineeringblog/achievements-unlocked.htm[lizardfeeder]: http://feeds.mozilla.com/</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -830,16 +830,16 @@ If you don&apos;t have someone&apos;s profile in Badger bookmarked, a glance at 
 {\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 At first, many badges will be people-powered in the awards process:\par
 \par
 1. Bob creates a badge named &quot;Monkey Wrangler&quot;.\par
-2. Tom nominates Bill to be awarded the &quot;Monkey Wrangler&quot; badge.\par
-3. Bob sees the nomination, decides that Bill is indeed a wrangler of monkeys, and approves Tom&apos;s nomination.\par
-4. Bill sees that he&apos;s eligible to claim the &quot;Monkey Wrangler&quot; badge, and adds it to his collection.\par
+2. Tom nominates Joe to be awarded the &quot;Monkey Wrangler&quot; badge.\par
+3. Bob sees the nomination, decides that Joe is indeed a wrangler of monkeys, and approves Tom&apos;s nomination.\par
+4. Joe sees that he&apos;s eligible to claim the &quot;Monkey Wrangler&quot; badge, and adds it to his collection.\par
 \par
 But, as a lazy coder, anything I do more than twice gives me an irresistible urge to write a script. And, as a gamer, I love the little thrill of satisfying the requirements for [an achievement on my Xbox 360][achievement].\par
 \par
 [&lt;img src=&quot;img/monkey_achievement.png&quot; style=&quot;display: block; margin: 1em auto 1em auto&quot; /&gt;][a_generator]\par
 [a_generator]: http://achievements.schrankmonster.de/\par
 \par
-Let&apos;s say that Bob considers a &quot;Monkey Wrangler&quot; anyone who&apos;s fixed 25 bugs on the new FunkyMonkey JavaScript engine. So, we can build a system that watches bugs and keeps count, and Bob can build this into his badge. Once Bill has met the requirements for Bob&apos;s badge, the nomination and approval happen automatically and goes straight to Bob&apos;s inbox to be claimed.\par
+Let&apos;s say that Bob considers a &quot;Monkey Wrangler&quot; anyone who&apos;s fixed 25 bugs on the new FunkyMonkey JavaScript engine. So, we can build a system that watches bugs and keeps count, and Bob can build this into his badge. Once Joe has met the requirements for Bob&apos;s badge, the nomination and approval happen automatically and the award goes straight to Joe&apos;s inbox to be claimed.\par
 \par
 [Mozilla Pulse][pulse] and [LizardFeeder][] are systems that could play a part in this, feeding events into the badge system that could eventually be turned into automated &quot;thank you&quot; badges to contributors.\par
 \par
@@ -891,7 +891,7 @@ As pictured above, this is a concept familiar to World of Warcraft players. In m
 <attribute name="Modified" >2010-07-22T12:04:00-04:00</attribute>
 <attribute name="Name" >Open Source, Open Web</attribute>
 <attribute name="ReadCount" >5</attribute>
-<attribute name="SelectionCount" >34</attribute>
+<attribute name="SelectionCount" >35</attribute>
 <attribute name="WindowPlace" >Rect[ 616 181 1223 763]</attribute>
 <attribute name="Xpos" >4.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -1716,7 +1716,6 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
    <SimplenotePassword > </SimplenotePassword>
 </preferences>
 <windows >
-<window ID="3358681308" Creator="lmorchard" type="outline" bounds="Rect[ 64 61 570 766]" x="0" y="0" scale="5" expanded="3358681308 3358681341 3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 " collapsed="3362634541 3358681335 3359203949 "  />
-<window ID="3362600761" Creator="lmorchard" type="explorer" bounds="Rect[ 238 75 1196 877]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 3362634541 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
+<window ID="3362597167" Creator="lmorchard" type="explorer" bounds="Rect[ 238 75 1196 877]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 3362634541 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
 </windows>
 </tinderbox>
