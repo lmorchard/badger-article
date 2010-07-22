@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tinderbox version="2" revision="8" >
+<attrib Name="anything" editable="0" visibleInEditor="1" default="" >
+<attrib Name="System" parent="anything" editable="0" visibleInEditor="1" default="" >
+<attrib Name="Agent" parent="System" editable="0" visibleInEditor="1" type="4" default="false" >
+<attrib Name="AgentAction" parent="Agent" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="AgentCaseSensitive" parent="Agent" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="AgentPriority" parent="Agent" editable="1" visibleInEditor="1" type="2" default="1" >
+</attrib>
+<attrib Name="AgentQuery" parent="Agent" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="Appearance" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="Badge" parent="Appearance" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Border" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="2" >
+</attrib>
+<attrib Name="BorderBevel" parent="Appearance" editable="1" visibleInEditor="1" default="automatic" >
+</attrib>
+<attrib Name="BorderColor" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="automatic" >
+</attrib>
+<attrib Name="BorderDash" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="Color" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="dark warm gray" >
+</attrib>
+<attrib Name="Color2" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="light warm gray" >
+</attrib>
+<attrib Name="Opacity" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="Pattern" parent="Appearance" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="PlotColor" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="black" >
+</attrib>
+<attrib Name="Shadow" parent="Appearance" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="ShadowBlur" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="10" >
+</attrib>
+<attrib Name="ShadowColor" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="black" >
+</attrib>
+<attrib Name="ShadowDistance" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="5" >
+</attrib>
+<attrib Name="Shape" parent="Appearance" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="Events" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="DueDate" parent="Events" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+<attrib Name="EndDate" parent="Events" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+<attrib Name="StartDate" parent="Events" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+</attrib>
+<attrib Name="General" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="Checked" parent="General" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="ChildCount" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="CleanupAction" parent="General" editable="1" visibleInEditor="1" default="grid" >
+</attrib>
+<attrib Name="Container" parent="General" editable="1" visibleInEditor="1" canInherit="0" default="" >
+</attrib>
+<attrib Name="Created" parent="General" editable="0" visibleInEditor="1" type="5" canInherit="0" default="never" >
+</attrib>
+<attrib Name="Creator" parent="General" editable="0" visibleInEditor="1" kind="1" canInherit="0" default="lmorchard" >
+</attrib>
+<attrib Name="DescendantCount" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="DisplayExpression" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="DisplayName" parent="General" editable="0" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="File" parent="General" editable="1" visibleInEditor="1" type="3" default="" >
+</attrib>
+<attrib Name="ID" parent="General" editable="0" visibleInEditor="0" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="InboundLinkCount" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="IsAlias" parent="General" editable="0" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="IsPrototype" parent="General" editable="1" visibleInEditor="1" type="4" canInherit="0" default="false" >
+</attrib>
+<attrib Name="Modified" parent="General" editable="0" visibleInEditor="1" type="5" canInherit="0" default="never" >
+</attrib>
+<attrib Name="Name" parent="General" editable="1" visibleInEditor="1" canInherit="0" default="untitled" >
+</attrib>
+<attrib Name="OnAdd" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="OutboundLinkCount" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="OutlineDepth" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="OutlineOrder" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="Path" parent="General" editable="0" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Private" parent="General" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="Prototype" parent="General" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="PrototypeBequeathsChildren" parent="General" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="ReadCount" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="Rule" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="SelectionCount" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="SiblingOrder" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="WebLinkCount" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+</attrib>
+<attrib Name="HTML" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="HTMLBoldEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/b&gt;" >
+</attrib>
+<attrib Name="HTMLBoldStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;b&gt;" >
+</attrib>
+<attrib Name="HTMLCloud1End" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/span&gt;" >
+</attrib>
+<attrib Name="HTMLCloud1Start" parent="HTML" editable="1" visibleInEditor="1" default="&lt;span style=&quot;font-size: 0.75em&quot; &gt;" >
+</attrib>
+<attrib Name="HTMLCloud2End" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/span&gt;" >
+</attrib>
+<attrib Name="HTMLCloud2Start" parent="HTML" editable="1" visibleInEditor="1" default="&lt;span style=&quot;font-size: 1em&quot; &gt;" >
+</attrib>
+<attrib Name="HTMLCloud3End" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/span&gt;" >
+</attrib>
+<attrib Name="HTMLCloud3Start" parent="HTML" editable="1" visibleInEditor="1" default="&lt;span style=&quot;font-size: 1.4em&quot; &gt;" >
+</attrib>
+<attrib Name="HTMLCloud4End" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/span&gt;" >
+</attrib>
+<attrib Name="HTMLCloud4Start" parent="HTML" editable="1" visibleInEditor="1" default="&lt;span style=&quot;font-size: 2em&quot; &gt;" >
+</attrib>
+<attrib Name="HTMLCloud5End" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/span&gt;" >
+</attrib>
+<attrib Name="HTMLCloud5Start" parent="HTML" editable="1" visibleInEditor="1" default="&lt;span style=&quot;font-size: 2.8em&quot; &gt;" >
+</attrib>
+<attrib Name="HTMLDontExport" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="HTMLEntities" parent="HTML" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="HTMLExportAfter" parent="HTML" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="HTMLExportBefore" parent="HTML" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="HTMLExportChildren" parent="HTML" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="HTMLExportCommand" parent="HTML" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="HTMLExportExtension" parent="HTML" editable="1" visibleInEditor="1" kind="9" default=".html" >
+</attrib>
+<attrib Name="HTMLExportFileName" parent="HTML" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="HTMLExportTemplate" parent="HTML" editable="1" visibleInEditor="1" kind="6" type="3" default="Portafilter:Users:lorchard:Applications:Tinderbox.app:Contents:MacOS:templates:html:plain" >
+</attrib>
+<attrib Name="HTMLFileNameLowerCase" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="HTMLFileNameMaxLength" parent="HTML" editable="1" visibleInEditor="1" type="2" default="24" >
+</attrib>
+<attrib Name="HTMLFirstParagraphEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/p&gt;" >
+</attrib>
+<attrib Name="HTMLFirstParagraphStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;p&gt;" >
+</attrib>
+<attrib Name="HTMLImageEnd" parent="HTML" editable="1" visibleInEditor="1" default="&gt;" >
+</attrib>
+<attrib Name="HTMLImageStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;img" >
+</attrib>
+<attrib Name="HTMLIndentedParagraphEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/blockquote&gt;" >
+</attrib>
+<attrib Name="HTMLIndentedParagraphStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;blockquote&gt;" >
+</attrib>
+<attrib Name="HTMLItalicEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/i&gt;" >
+</attrib>
+<attrib Name="HTMLItalicStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;i&gt;" >
+</attrib>
+<attrib Name="HTMLListEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/ul&gt;" >
+</attrib>
+<attrib Name="HTMLListItemEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/li&gt;" >
+</attrib>
+<attrib Name="HTMLListItemStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;li&gt;" >
+</attrib>
+<attrib Name="HTMLListStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;ul&gt;" >
+</attrib>
+<attrib Name="HTMLMarkupText" parent="HTML" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="HTMLOrderedListEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/ol&gt;" >
+</attrib>
+<attrib Name="HTMLOrderedListStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;ol&gt;" >
+</attrib>
+<attrib Name="HTMLOverwriteImages" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="HTMLParagraphEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/p&gt;" >
+</attrib>
+<attrib Name="HTMLParagraphStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;p&gt;" >
+</attrib>
+<attrib Name="HTMLQuoteHTML" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="HTMLStrikeEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/strike&gt;" >
+</attrib>
+<attrib Name="HTMLStrikeStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;strike&gt;" >
+</attrib>
+<attrib Name="HTMLUnderlineEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/u&gt;" >
+</attrib>
+<attrib Name="HTMLUnderlineStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;u&gt;" >
+</attrib>
+<attrib Name="IsTemplate" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+</attrib>
+<attrib Name="Internal" parent="System" editable="0" visibleInEditor="0" default="" >
+<attrib Name="Alias" parent="Internal" editable="0" visibleInEditor="0" type="6" default="0" >
+</attrib>
+<attrib Name="EntryScript" parent="Internal" editable="0" visibleInEditor="0" default="" >
+</attrib>
+<attrib Name="ExitScript" parent="Internal" editable="0" visibleInEditor="0" default="" >
+</attrib>
+<attrib Name="WindowPlace" parent="Internal" editable="0" visibleInEditor="0" kind="21" type="10" canInherit="0" default="Rect[ 50 50 750 350]" >
+</attrib>
+</attrib>
+<attrib Name="Map" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="Fill" parent="Map" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="FillOpacity" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.75" >
+</attrib>
+<attrib Name="Height" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="1" >
+</attrib>
+<attrib Name="InteriorScale" parent="Map" editable="1" visibleInEditor="1" kind="20" type="2" default="1.5" >
+</attrib>
+<attrib Name="LeafBase" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.5" >
+</attrib>
+<attrib Name="LeafBend" parent="Map" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="LeafDirection" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="LeafTip" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.5" >
+</attrib>
+<attrib Name="Lock" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="MapBackgroundColor" parent="Map" editable="1" visibleInEditor="1" kind="3" type="1" default="#ffffff" >
+</attrib>
+<attrib Name="MapBodyTextColor" parent="Map" editable="1" visibleInEditor="1" type="1" default="automatic" >
+</attrib>
+<attrib Name="MapBodyTextSize" parent="Map" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="MapScrollX" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="MapScrollY" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="MapTextSize" parent="Map" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="NameAlignment" parent="Map" editable="1" visibleInEditor="1" default="left" >
+</attrib>
+<attrib Name="NameBold" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="NameColor" parent="Map" editable="1" visibleInEditor="1" type="1" default="automatic" >
+</attrib>
+<attrib Name="NameFont" parent="Map" editable="1" visibleInEditor="1" kind="2" default="Lucida Grande" >
+</attrib>
+<attrib Name="NameLeading" parent="Map" editable="1" visibleInEditor="1" type="2" default="-1" >
+</attrib>
+<attrib Name="NameStrike" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="Sticky" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="TableExpression" parent="Map" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="TableHeading" parent="Map" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="TitleHeight" parent="Map" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="Width" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="3" >
+</attrib>
+<attrib Name="Xpos" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="Ypos" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+</attrib>
+<attrib Name="Net" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="AutoFetch" parent="Net" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="AutoFetchCommand" parent="Net" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="LastFetched" parent="Net" editable="0" visibleInEditor="1" type="5" canInherit="0" default="never" >
+</attrib>
+<attrib Name="RSSChannelTemplate" parent="Net" editable="1" visibleInEditor="1" default="RSSChannel" >
+</attrib>
+<attrib Name="RSSItemLimit" parent="Net" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="RSSItemTemplate" parent="Net" editable="1" visibleInEditor="1" default="RSSItem" >
+</attrib>
+<attrib Name="RawData" parent="Net" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="URL" parent="Net" editable="1" visibleInEditor="1" type="9" default="" >
+</attrib>
+<attrib Name="ViewInBrowser" parent="Net" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+</attrib>
+<attrib Name="Outline" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="MapPrototypeColor" parent="Outline" editable="1" visibleInEditor="1" kind="13" type="1" default="#ddeedd" >
+</attrib>
+<attrib Name="OutlineBackgroundColor" parent="Outline" editable="1" visibleInEditor="1" type="1" default="automatic" >
+</attrib>
+<attrib Name="OutlineColorSwatch" parent="Outline" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="OutlineTextSize" parent="Outline" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="Separator" parent="Outline" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+</attrib>
+<attrib Name="People" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="AIM" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Address" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Email" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="FullName" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Organization" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Telephone" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Twitter" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="Simplenote" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="SimplenoteKey" parent="Simplenote" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="SimplenoteModified" parent="Simplenote" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+</attrib>
+<attrib Name="Sorting" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="Sort" parent="Sorting" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="SortAlso" parent="Sorting" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="SortAlsoTransform" parent="Sorting" editable="1" visibleInEditor="1" default="case-sensitive" >
+</attrib>
+<attrib Name="SortBackward" parent="Sorting" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="SortBackwardAlso" parent="Sorting" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="SortTransform" parent="Sorting" editable="1" visibleInEditor="1" default="case-sensitive" >
+</attrib>
+</attrib>
+<attrib Name="TextFormat" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="AutomaticIndent" parent="TextFormat" editable="1" visibleInEditor="1" kind="23" type="4" default="true" >
+</attrib>
+<attrib Name="KeyAttributes" parent="TextFormat" editable="1" visibleInEditor="1" type="8" default="" >
+</attrib>
+<attrib Name="LeftMargin" parent="TextFormat" editable="1" visibleInEditor="1" kind="15" type="2" default="2" >
+</attrib>
+<attrib Name="LineSpacing" parent="TextFormat" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="ParagraphSpacing" parent="TextFormat" editable="1" visibleInEditor="1" kind="14" type="2" default="2" >
+</attrib>
+<attrib Name="RightMargin" parent="TextFormat" editable="1" visibleInEditor="1" kind="16" type="2" default="-2" >
+</attrib>
+<attrib Name="ShowTitle" parent="TextFormat" editable="1" visibleInEditor="1" kind="5" type="4" default="true" >
+</attrib>
+<attrib Name="Tabs" parent="TextFormat" editable="1" visibleInEditor="1" default="0.25;" >
+</attrib>
+<attrib Name="TextAlign" parent="TextFormat" editable="1" visibleInEditor="1" kind="22" default="" >
+</attrib>
+<attrib Name="TextBackgroundColor" parent="TextFormat" editable="1" visibleInEditor="1" kind="8" type="1" default="#ffffff" >
+</attrib>
+<attrib Name="TextColor" parent="TextFormat" editable="1" visibleInEditor="1" kind="7" type="1" default="#000000" >
+</attrib>
+<attrib Name="TextFont" parent="TextFormat" editable="1" visibleInEditor="1" kind="18" default="Monaco" >
+</attrib>
+<attrib Name="TextFontSize" parent="TextFormat" editable="1" visibleInEditor="1" kind="19" type="2" default="14" >
+</attrib>
+<attrib Name="TextSidebar" parent="TextFormat" editable="1" visibleInEditor="1" kind="17" type="4" default="false" >
+</attrib>
+<attrib Name="TitleBackgroundColor" parent="TextFormat" editable="1" visibleInEditor="1" kind="12" type="1" default="#000000" >
+</attrib>
+<attrib Name="TitleFont" parent="TextFormat" editable="1" visibleInEditor="1" kind="4" default="Lucida Grande" >
+</attrib>
+<attrib Name="TitleForegroundColor" parent="TextFormat" editable="1" visibleInEditor="1" kind="11" type="1" default="#ffffff" >
+</attrib>
+</attrib>
+<attrib Name="Textual" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="ReadOnly" parent="Textual" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="Text" parent="Textual" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="TextExportTemplate" parent="Textual" editable="1" visibleInEditor="1" kind="10" default="Portafilter:Users:lorchard:Applications:Tinderbox.app:Contents:MacOS:templates:text:outline" >
+</attrib>
+<attrib Name="TextLength" parent="Textual" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="WordCount" parent="Textual" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="Wordcount" parent="Textual" editable="0" visibleInEditor="0" type="2" default="0" >
+</attrib>
+</attrib>
+<attrib Name="Weblog" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="WeblogPostID" parent="Weblog" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="mt_allow_comments" parent="Weblog" editable="1" visibleInEditor="1" type="2" default="1" >
+</attrib>
+<attrib Name="mt_allow_pings" parent="Weblog" editable="1" visibleInEditor="1" type="2" default="1" >
+</attrib>
+<attrib Name="mt_convert_breaks" parent="Weblog" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="mt_keywords" parent="Weblog" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+</attrib>
+<attrib Name="User" parent="anything" editable="0" visibleInEditor="1" default="" >
+<attrib Name="id" parent="User" editable="1" visibleInEditor="1" type="2" sequential="1" default="108" >
+</attrib>
+</attrib>
+</attrib>
+<colors >
+<color name="black" color="#000000"  />
+<color name="blue" color="#003366"  />
+<color name="bright blue" color="#0000ff"  />
+<color name="bright green" color="#00ff00"  />
+<color name="bright red" color="#ff0000"  />
+<color name="cool gray" color="#607080"  />
+<color name="cool gray dark" color="#505860"  />
+<color name="cyan" color="#006666"  />
+<color name="green" color="#009900"  />
+<color name="magenta" color="#660066"  />
+<color name="normal" color="#ffffff"  />
+<color name="orange" color="#ff8800"  />
+<color name="poppy" color="#ffcc66"  />
+<color name="red" color="#990000"  />
+<color name="warm gray" color="#807060"  />
+<color name="warm gray dark" color="#605850"  />
+<color name="white" color="#ffffff"  />
+<color name="yellow" color="#cccc00"  />
+</colors>
+<menu name="Value" kind="stamps" >
+<stamp name="Edit in MacVim" attribute="" >$Text=runCommand($Text(vim),$Text)</stamp>
+</menu>
+<linkTypes >
+<linkType name="*untitled" label="" visible="1" showLabel="0" color="#000000" colorString="#000000" style="0"  />
+<linkType name="agree" visible="1" showLabel="1" color="#000000" colorString="#000000" style="0"  />
+<linkType name="clarify" visible="1" showLabel="1" color="#000000" colorString="#000000" style="0"  />
+<linkType name="disagree" visible="1" showLabel="1" color="#000000" colorString="#000000" style="0"  />
+<linkType name="example" visible="1" showLabel="1" color="#000000" colorString="#000000" style="0"  />
+<linkType name="exception" visible="1" showLabel="1" color="#000000" colorString="#000000" style="0"  />
+<linkType name="note" visible="1" showLabel="1" color="#666666" colorString="#666666" style="0"  />
+<linkType name="note+" visible="1" showLabel="1" color="#444444" colorString="#444444" style="0"  />
+<linkType name="prototype" visible="0" showLabel="1" color="#993333" colorString="#993333" style="0"  />
+<linkType name="response" visible="1" showLabel="1" color="#000000" colorString="#000000" style="0"  />
+<linkType name="update" visible="1" showLabel="1" color="#000000" colorString="#000000" style="0"  />
+</linkTypes>
+<item ID="3358681308" Creator="lmorchard" >
+<attribute name="Created" >2010-06-06T14:32:00-04:00</attribute>
+<attribute name="Modified" >2010-06-06T14:32:00-04:00</attribute>
+<attribute name="Name" >badger-whitepaper</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+<item ID="3358681341" Creator="lmorchard" >
+<attribute name="Address" >http://lmorchard.com/</attribute>
+<attribute name="Created" >2010-06-04T15:19:00-04:00</attribute>
+<attribute name="Email" >l.m.orchard@pobox.com</attribute>
+<attribute name="FullName" >l.m.orchard</attribute>
+<attribute name="HTMLExportChildren" >false</attribute>
+<attribute name="HTMLExportFileName" >index</attribute>
+<attribute name="HTMLMarkupText" >false</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-07-22T11:00:00-04:00</attribute>
+<attribute name="Name" >Why does Mozilla need a Badger?</attribute>
+<attribute name="ReadCount" >408</attribute>
+<attribute name="SelectionCount" >372</attribute>
+<attribute name="TextSidebar" >false</attribute>
+<attribute name="Twitter" >lmorchard</attribute>
+<attribute name="WindowPlace" >Rect[ 807 167 1387 818]</attribute>
+<attribute name="Xpos" >-3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >1</attribute>
+<text >[&lt;img src=&quot;http://farm5.static.flickr.com/4135/4773037127_a02b3ab039.jpg&quot; style=&quot;float:right; margin: 0 0 1em 1em; width: 33%&quot;&gt;][mozmunchkin][mozmunchkin]: http://www.flickr.com/photos/deusx/4773037127/The overwhelming sentiments I saw echoed everywhere at the 2010 Mozilla Summit were wonder and gratitude—that is, &quot;Wow!&quot; and &quot;Thank you!&quot; From the breakout sessions to science fair demos to the running of the event itself—there were so many awesome people, doing so many awesome things.As a nerd and a programmer, I saw this as a problem: If I set about in person spreading the proper amount of wonder and gratitude that each and everyone deserved, I would never finish by the end of the Summit. And worse, if everyone tried to do that, we wouldn&apos;t have had the time to show each other awesome things to begin with.But, when I saw a keynote slide comparing Mozilla community aspirations to the Boy Scouts, [I had an idea](idea): What if Mozillians could give each other Merit Badges? It&apos;s not an original idea, and there are lots of variations: badges for Scouts; medals for athletes; achievements for gamers—these are all tokens of recognition from a group to an individual.The thing I thought might work for Mozilla, though, was this: What if there were no central committee in charge of inventing awards and overseeing their distribution? What if, by way of the same Open Web technologies and philosophies we support, the community could be empowered to craft artifacts of gratitude and present them to each other?This is easier said than done, but I have a hunch that something interesting can be built at the Mozillian intersection of community and technology.[idea]: http://twitter.com/lmorchard/status/18047694152</text>
+<styles >
+ <tstyle font="Menlo Regular" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fnil\fcharset77 Menlo Regular;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [&lt;img src=&quot;http://farm5.static.flickr.com/4135/4773037127_a02b3ab039.jpg&quot; style=&quot;float:right; margin: 0 0 1em 1em; width: 33%&quot;&gt;][mozmunchkin]\par
+[mozmunchkin]: http://www.flickr.com/photos/deusx/4773037127/\par
+\par
+The overwhelming sentiments I saw echoed everywhere at the 2010 Mozilla Summit were wonder and gratitude\u8212 that is, &quot;Wow!&quot; and &quot;Thank you!&quot; From the breakout sessions to science fair demos to the running of the event itself\u8212 there were so many awesome people, doing so many awesome things.\par
+\par
+As a nerd and a programmer, I saw this as a problem: If I set about in person spreading the proper amount of wonder and gratitude that each and everyone deserved, I would never finish by the end of the Summit. And worse, if everyone tried to do that, we wouldn&apos;t have had the time to show each other awesome things to begin with.\par
+\par
+But, when I saw a keynote slide comparing Mozilla community aspirations to the Boy Scouts, [I had an idea](idea): What if Mozillians could give each other Merit Badges? It&apos;s not an original idea, and there are lots of variations: badges for Scouts; medals for athletes; achievements for gamers\u8212 these are all tokens of recognition from a group to an individual.\par
+\par
+The thing I thought might work for Mozilla, though, was this: What if there were no central committee in charge of inventing awards and overseeing their distribution? What if, by way of the same Open Web technologies and philosophies we support, the community could be empowered to craft artifacts of gratitude and present them to each other?\par
+\par
+This is easier said than done, but I have a hunch that something interesting can be built at the Mozillian intersection of community and technology.\par
+\par
+[idea]: http://twitter.com/lmorchard/status/18047694152}}
+</rtf>
+<item ID="3362634541" Creator="lmorchard" >
+<attribute name="Created" >2010-07-22T09:09:00-04:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-07-22T11:12:00-04:00</attribute>
+<attribute name="Name" >What is Badger?</attribute>
+<attribute name="ReadCount" >19</attribute>
+<attribute name="SelectionCount" >49</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >13</attribute>
+<attribute name="Ypos" >1</attribute>
+<attribute name="id" >108</attribute>
+<text >Badger is [an Open Source social web application under development][badger] that aims to support these features:* Artifacts of gratitude—i.e. badges—as [social objects][socialobjs] to exchanged, displayed, and discussed.* Showcasing community values through the things we collectively celebrate.* Public recognition of community members and their valued contributions.* Transparent, open processes for participating in creating, awarding, discussing, and evaluating badges.* Collaboration on badge creation through a &quot;Help Wanted&quot; system that presents minimal overhead for coordination and offers a playful space for creative contribution.* Mobile device support for awarding badges on the spot and expressing public gratitude in person.* Rule-based awards triggered by conditions detected out on the web.[socialobjs]: http://www.readwriteweb.com/archives/building_sites_around_social_objects_live_from_web.php[badger]: http://github.com/lmorchard/badger</text>
+<styles >
+ <tstyle font="Menlo Regular" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fnil\fcharset77 Menlo Regular;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Badger is [an Open Source social web application under development][badger] that aims to support these features:\par
+\par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Artifacts of gratitude\u8212 i.e. badges\u8212 as [social objects][socialobjs] to exchanged, displayed, and discussed.\par
+\par
+* Showcasing community values through the things we collectively celebrate.\par
+\par
+* Public recognition of community members and their valued contributions.\par
+\par
+* Transparent, open processes for participating in creating, awarding, discussing, and evaluating badges.\par
+\par
+* Collaboration on badge creation through a &quot;Help Wanted&quot; system that presents minimal overhead for coordination and offers a playful space for creative contribution.\par
+\par
+* Mobile device support for awarding badges on the spot and expressing public gratitude in person.\par
+\par
+* Rule-based awards triggered by conditions detected out on the web.\par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+[socialobjs]: http://www.readwriteweb.com/archives/building_sites_around_social_objects_live_from_web.php\par
+[badger]: http://github.com/lmorchard/badger}}
+</rtf>
+<item ID="3362597179" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T22:46:00-04:00</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-07-21T22:46:00-04:00</attribute>
+<attribute name="Name" >Badger image?</attribute>
+<attribute name="ReadCount" >1</attribute>
+<attribute name="SelectionCount" >11</attribute>
+<attribute name="Xpos" >14</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >103</attribute>
+</item>
+</item>
+<item ID="3362591221" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T21:07:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T10:08:00-04:00</attribute>
+<attribute name="Name" >Why badges?</attribute>
+<attribute name="ReadCount" >68</attribute>
+<attribute name="SelectionCount" >151</attribute>
+<attribute name="WindowPlace" >Rect[ 602 59 1186 687]</attribute>
+<attribute name="Xpos" >6.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >96</attribute>
+<text >[&lt;img width=&quot;33%&quot; src=&quot;img/volvo_badge.jpg&quot; style=&quot;float:left; margin: 0 1em 1em 0em &quot;/&gt;][volvobadge]For the purposes of this article, consider that a **badge** is an artifact of recognition. There are other connotations for the word &quot;badge&quot; involving authority and power—but let&apos;s ignore those for now.Badges are collectable, and that collection can made visible to other people. A badge collection tells the story of things that other people have declared about the person who owns the collection. A badge collection is also a set of things that the owner *has chosen to share*. This puts both the badge presenters and bearers in control of assertions—which means badges have something to say about all parties involved: The set of available badges is a comment on things valued by the community that presents them. Conversely, badges accepted and displayed by a person can help demonstrate what values he or she shares with the community.And beyond what they assert, [badges are social objects][socialobjects]. People have opinions about badges, the people who present them, and the people who claim them. Some applaud the sentiment behind particular badges; some congratulate the people who claim them; some people make plans to earn them. Some badges are more attractive than others, some are funny, and some are more difficult to achieve. This is all context that make badges interesting beyond just what they assert.[volvobadge]: http://www.flickr.com/photos/68144590@N00/113648936/in/photostream/[socialobjects]: http://www.readwriteweb.com/archives/building_sites_around_social_objects_live_from_web.php</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [&lt;img width=&quot;33%&quot; src=&quot;img/volvo_badge.jpg&quot; style=&quot;float:left; margin: 0 1em 1em 0em &quot;/&gt;][volvobadge]\par
+\par
+For the purposes of this article, consider that a **badge** is an artifact of recognition. There are other connotations for the word &quot;badge&quot; involving authority and power\u8212 but let&apos;s ignore those for now.\par
+\par
+Badges are collectable, and that collection can made visible to other people. A badge collection tells the story of things that other people have declared about the person who owns the collection. A badge collection is also a set of things that the owner *has chosen to share*. \par
+\par
+This puts both the badge presenters and bearers in control of assertions\u8212 which means badges have something to say about all parties involved: The set of available badges is a comment on things valued by the community that presents them. Conversely, badges accepted and displayed by a person can help demonstrate what values he or she shares with the community.\par
+\par
+And beyond what they assert, [badges are social objects][socialobjects]. People have opinions about badges, the people who present them, and the people who claim them. Some applaud the sentiment behind particular badges; some congratulate the people who claim them; some people make plans to earn them. Some badges are more attractive than others, some are funny, and some are more difficult to achieve. This is all context that make badges interesting beyond just what they assert.\par
+\par
+[volvobadge]: http://www.flickr.com/photos/68144590@N00/113648936/in/photostream/\par
+[socialobjects]: http://www.readwriteweb.com/archives/building_sites_around_social_objects_live_from_web.php}}
+</rtf>
+</item>
+<item ID="3362597162" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T22:19:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T10:09:00-04:00</attribute>
+<attribute name="Name" >What do we value?</attribute>
+<attribute name="ReadCount" >37</attribute>
+<attribute name="SelectionCount" >90</attribute>
+<attribute name="WindowPlace" >Rect[ 589 75 1196 656]</attribute>
+<attribute name="Xpos" >10</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >97</attribute>
+<text >[&lt;img width=&quot;33%&quot; src=&quot;http://blog.lizardwrangler.com/wp-content/uploads/2008/07/mozillatree.jpg&quot; style=&quot;float:right; margin: 0 0 1em 1em &quot;/&gt;][tree]Mozilla has a mission [to promote openness, innovation, and opportunity on the web][mission], and we are globally distributed in the way we go about pursuing that mission. Sure, we have leaders heading up the various Mozilla organizational entities, but much of what drives the mission comes up from the roots of the community.Encapsulating community values as social objects of gratitude seems interesting to me, especially from the perspective of [the Open Web as a social movement][socialmovement].Empowering community members to create badges could help us as individuals to discover and learn *specifically* what is valued within our community—especially from parts of it we don&apos;t encounter on a daily basis. For example: As a [webdev][], I don&apos;t always know what&apos;s going on in the area of JavaScript interpreter improvements—even though I&apos;d be very interested if I had the time to dig. The weekly update meeting is too crowded to cover everything, and it&apos;s not every day we have a full Summit week of lightning talks to bring things to the surface. But, if I saw a few people claim some highly-applauded and coveted {Spider,Trace,Jager}Monkey-themed badges, I might just get a clue toward the major happenings.[socialmovement]: http://eaves.ca/2008/06/10/the-open-web-is-a-social-movement/[mission]: http://www.mozilla.org/about/mission.html[webdev]: https://wiki.mozilla.org/Webdev[tree]: http://blog.lizardwrangler.com/2008/07/29/the-mozilla-tree/[roots]: http://blog.lizardwrangler.com/wp-content/uploads/2008/07/mozillatree.jpg</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [&lt;img width=&quot;33%&quot; src=&quot;http://blog.lizardwrangler.com/wp-content/uploads/2008/07/mozillatree.jpg&quot; style=&quot;float:right; margin: 0 0 1em 1em &quot;/&gt;][tree]\par
+\par
+Mozilla has a mission [to promote openness, innovation, and opportunity on the web][mission], and we are globally distributed in the way we go about pursuing that mission. Sure, we have leaders heading up the various Mozilla organizational entities, but much of what drives the mission comes up from the roots of the community.\par
+\par
+Encapsulating community values as social objects of gratitude seems interesting to me, especially from the perspective of [the Open Web as a social movement][socialmovement].\par
+\par
+Empowering community members to create badges could help us as individuals to discover and learn *specifically* what is valued within our community\u8212 especially from parts of it we don&apos;t encounter on a daily basis. \par
+\par
+For example: As a [webdev][], I don&apos;t always know what&apos;s going on in the area of JavaScript interpreter improvements\u8212 even though I&apos;d be very interested if I had the time to dig. The weekly update meeting is too crowded to cover everything, and it&apos;s not every day we have a full Summit week of lightning talks to bring things to the surface. \par
+\par
+But, if I saw a few people claim some highly-applauded and coveted \{Spider,Trace,Jager\}Monkey-themed badges, I might just get a clue toward the major happenings.\par
+\par
+[socialmovement]: http://eaves.ca/2008/06/10/the-open-web-is-a-social-movement/\par
+[mission]: http://www.mozilla.org/about/mission.html\par
+[webdev]: https://wiki.mozilla.org/Webdev\par
+[tree]: http://blog.lizardwrangler.com/2008/07/29/the-mozilla-tree/\par
+[roots]: http://blog.lizardwrangler.com/wp-content/uploads/2008/07/mozillatree.jpg}}
+</rtf>
+<item ID="3362597163" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T22:45:00-04:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-07-21T22:45:00-04:00</attribute>
+<attribute name="Name" >Monkey image here? {trace,jager,spider}</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >100</attribute>
+</item>
+</item>
+<item ID="3362597164" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:23:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T10:10:00-04:00</attribute>
+<attribute name="Name" >Just what is it you do here, anyway?</attribute>
+<attribute name="ReadCount" >59</attribute>
+<attribute name="SelectionCount" >54</attribute>
+<attribute name="WindowPlace" >Rect[ 673 264 1284 818]</attribute>
+<attribute name="Xpos" >2</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >82</attribute>
+<text >&lt;img width=&quot;33%&quot; src=&quot;img/bobs.jpg&quot; style=&quot;float:left; margin: 0 1em 1em 0em&quot;/&gt;A common conversation starter at the Summit—and, for that matter, at most Mozilla get-togethers—is &quot;So, what do you do?&quot; Sometimes the answer is simple, and sometimes it&apos;s a long story. We often have ice breakers to get people mixing and swapping stories, which helps. But, what if I had an instant, personalized conversation starter—say I printed out favorites from my collection of badges before an event and wore it on a lanyard? When I meet another Mozillian who&apos;s done the same, we can point at each other&apos;s community-generated icons and say &quot;Whoa, that&apos;s cool! What did you do to get *that*? Oh, you work on *that* thing? Nice!&quot; And, off we go. More than titles or job descriptions, a badge collection could help explain just what each of us does in the eyes of the community, using a shared cultural context expressed by the badges themselves.Also, consider that badges should be localizable—this could help bridge the language barrier in answering the question &quot;So, what do you do?&quot; when we meet online and face-to-face.</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 &lt;img width=&quot;33%&quot; src=&quot;img/bobs.jpg&quot; style=&quot;float:left; margin: 0 1em 1em 0em&quot;/&gt;\par
+\par
+A common conversation starter at the Summit\u8212 and, for that matter, at most Mozilla get-togethers\u8212 is &quot;So, what do you do?&quot; Sometimes the answer is simple, and sometimes it&apos;s a long story. \par
+\par
+We often have ice breakers to get people mixing and swapping stories, which helps. But, what if I had an instant, personalized conversation starter\u8212 say I printed out favorites from my collection of badges before an event and wore it on a lanyard? \par
+\par
+When I meet another Mozillian who&apos;s done the same, we can point at each other&apos;s community-generated icons and say &quot;Whoa, that&apos;s cool! What did you do to get *that*? Oh, you work on *that* thing? Nice!&quot; And, off we go. \par
+\par
+More than titles or job descriptions, a badge collection could help explain just what each of us does in the eyes of the community, using a shared cultural context expressed by the badges themselves.\par
+\par
+Also, consider that badges should be localizable\u8212 this could help bridge the language barrier in answering the question &quot;So, what do you do?&quot; when we meet online and face-to-face.}}
+</rtf>
+<item ID="3362597165" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T22:45:00-04:00</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-07-21T22:45:00-04:00</attribute>
+<attribute name="Name" >Office space image?</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >101</attribute>
+</item>
+</item>
+<item ID="3362600161" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T23:36:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T10:44:00-04:00</attribute>
+<attribute name="Name" >Talk amongst yourselves</attribute>
+<attribute name="ReadCount" >25</attribute>
+<attribute name="SelectionCount" >20</attribute>
+<attribute name="WindowPlace" >Rect[ 644 100 1308 754]</attribute>
+<attribute name="Xpos" >5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >106</attribute>
+<text >[&lt;img src=&quot;http://commons.wik.is/@api/deki/files/1/=firefox%20shirt.jpg?size=webview&quot; style=&quot;float: right; margin: 0 0 1em 1em; width: 33%&quot; /&gt;][fxshirt][fxshirt]: http://commonspace.wordpress.com/2008/06/18/the-next-million-mozillians/@@@@@@@@@@@@@@@@@@@This is one of the principles laid out in [the Mozilla Manifesto][manifesto]:&gt; &quot;Transparent community-based processes promote participation, accountability, and trust.&quot;And accordingly, badges as social objects should exist within precisely this sort of process. With the exception perhaps only of badges meant to be a surprise, everything should be open.Badges should be applauded, discussed, and left open to improvement with distributed editorial control. The community should be able to lift up badges that represent common values, and be empowered to help deflect abuse.[manifesto]: http://www.mozilla.org/about/manifesto.en.html</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [&lt;img src=&quot;http://commons.wik.is/@api/deki/files/1/=firefox%20shirt.jpg?size=webview&quot; style=&quot;float: right; margin: 0 0 1em 1em; width: 33%&quot; /&gt;][fxshirt]\par
+[fxshirt]: http://commonspace.wordpress.com/2008/06/18/the-next-million-mozillians/\par
+\par
+\par
+@@@@@@@@@@@@@@@@@@@\par
+\par
+\par
+This is one of the principles laid out in [the Mozilla Manifesto][manifesto]:\par
+\par
+&gt; &quot;Transparent community-based processes promote participation, accountability, and trust.&quot;\par
+\par
+And accordingly, badges as social objects should exist within precisely this sort of process. With the exception perhaps only of badges meant to be a surprise, everything should be open.\par
+\par
+Badges should be applauded, discussed, and left open to improvement with distributed editorial control. The community should be able to lift up badges that represent common values, and be empowered to help deflect abuse.\par
+\par
+[manifesto]: http://www.mozilla.org/about/manifesto.en.html}}
+</rtf>
+</item>
+<item ID="3362597166" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:38:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T10:30:00-04:00</attribute>
+<attribute name="Name" >Help Wanted</attribute>
+<attribute name="ReadCount" >141</attribute>
+<attribute name="SelectionCount" >107</attribute>
+<attribute name="WindowPlace" >Rect[ 699 86 1289 725]</attribute>
+<attribute name="Xpos" >3</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >92</attribute>
+<text >[&lt;img src=&quot;http://www.artzilla.org/wp-content/themes/artzilla/images/bg/zilla.png&quot; style=&quot;float:left; width: 18%; margin: 0 1em 1em 0&quot; /&gt;][artzilla][artzilla]: http://artzilla.org/At the summit, Guillermo Movia gave a lightning talk about [web stencils and street art applied to the web][art] and [Artzilla.org][artzilla]. That excited me about the creativity in our community. And then there&apos;s the participatory success of Personas and the flood of creative Firefox personalization seen happen.[art]: http://twitter.com/toniher/status/18056580738[artzilla]: http://artzilla.org/Mozilla has a long-running tradition of producing fun things to celebrate the community and its accomplishments. We have swag closets full of t-shirts, posters, stickers, and toys—both at the office and at home.When I got home from the summit, I thought: Wouldn&apos;t it be cool if we could keep that going in a distributed way? What if there was a way to get people together to craft virtual artifacts of gratitude for each other—i.e. badges—that were as playful and desirable as the physical swag we give away all the time?To make it work, the system has to do the heavy lifting to facilitate collaboration. Creating a badge shouldn&apos;t demand a conference call or meeting of any kind.So, the idea I had was a kind of &quot;Help Wanted&quot; system:* Badger can offer a &quot;Help Wanted&quot; search that cuts across aspects of badges associated with creative skill sets.* Have an idea for a badge? Create it and fill in as many details as you can, leave the rest marked &quot;Help Wanted&quot;, maybe with notes about your intentions.* Are you a designer? Can you make illustrations? Look for badges with artwork marked &quot;Help Wanted&quot; and submit contributions.* Artists could also contribute to a general library of clip art from which others could compose badge imagery as collages* Are you a writer? Look for badges with descriptions marked &quot;Help Wanted&quot; and contribute.* Are you a localizer? Look for badges marked &quot;Help Wanted&quot; in your native locales and offer localizationsIdeally, with some editorial controls put into the hands of individual badge creators—as opposed to entirely driven by top-level site administrators—this could result in a decentralized effort to create and improve badges with no need for synch-ups and minimal overhead to coordinate everyone.If the collaboration doesn&apos;t feel like work, we might just have some fun with it. And, of course, there will be badges for helping make badges.</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [&lt;img src=&quot;http://www.artzilla.org/wp-content/themes/artzilla/images/bg/zilla.png&quot; style=&quot;float:left; width: 18%; margin: 0 1em 1em 0&quot; /&gt;][artzilla]\par
+[artzilla]: http://artzilla.org/\par
+\par
+At the summit, Guillermo Movia gave a lightning talk about [web stencils and street art applied to the web][art] and [Artzilla.org][artzilla]. That excited me about the creativity in our community. And then there&apos;s the participatory success of Personas and the flood of creative Firefox personalization seen happen.\par
+\par
+[art]: http://twitter.com/toniher/status/18056580738\par
+[artzilla]: http://artzilla.org/\par
+\par
+Mozilla has a long-running tradition of producing fun things to celebrate the community and its accomplishments. We have swag closets full of t-shirts, posters, stickers, and toys\u8212 both at the office and at home.\par
+\par
+When I got home from the summit, I thought: Wouldn&apos;t it be cool if we could keep that going in a distributed way? What if there was a way to get people together to craft virtual artifacts of gratitude for each other\u8212 i.e. badges\u8212 that were as playful and desirable as the physical swag we give away all the time?\par
+\par
+To make it work, the system has to do the heavy lifting to facilitate collaboration. Creating a badge shouldn&apos;t demand a conference call or meeting of any kind.\par
+\par
+So, the idea I had was a kind of &quot;Help Wanted&quot; system:\par
+\par
+}{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Badger can offer a &quot;Help Wanted&quot; search that cuts across aspects of badges associated with creative skill sets.\par
+* Have an idea for a badge? Create it and fill in as many details as you can, leave the rest marked &quot;Help Wanted&quot;, maybe with notes about your intentions.\par
+* Are you a designer? Can you make illustrations? Look for badges with artwork marked &quot;Help Wanted&quot; and submit contributions.\par
+* Artists could also contribute to a general library of clip art from which others could compose badge imagery as collages\par
+* Are you a writer? Look for badges with descriptions marked &quot;Help Wanted&quot; and contribute.\par
+* Are you a localizer? Look for badges marked &quot;Help Wanted&quot; in your native locales and offer localizations\par
+}{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+Ideally, with some editorial controls put into the hands of individual badge creators\u8212 as opposed to entirely driven by top-level site administrators\u8212 this could result in a decentralized effort to create and improve badges with no need for synch-ups and minimal overhead to coordinate everyone.\par
+\par
+If the collaboration doesn&apos;t feel like work, we might just have some fun with it. \par
+\par
+And, of course, there will be badges for helping make badges.}}
+</rtf>
+</item>
+<item ID="3362597168" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T22:43:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T10:46:00-04:00</attribute>
+<attribute name="Name" >In person (or, mobile)</attribute>
+<attribute name="ReadCount" >39</attribute>
+<attribute name="SelectionCount" >53</attribute>
+<attribute name="WindowPlace" >Rect[ 615 76 1272 798]</attribute>
+<attribute name="Xpos" >2.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >98</attribute>
+<text >[&lt;img src=&quot;img/foursquare_badges.jpg&quot; style=&quot;float:right; height: 18em; margin: 0 0 1em 1em &quot;/&gt;][foursquarebadges][foursquarebadges]: http://www.flickr.com/photos/dpstyles/3367761841/in/photostream/As social objects, badges on the web will be identified by URLs and can bookmarked. People and badges can also be given shorter identifiers that are friendlier for typing on mobile devices.Imagine that someone does something at an event that you really like—say it&apos;s a science fair demo or a lightning talk. You could pull out your smartphone and nominate them for a bookmarked badge on the spot. If you don&apos;t know their name or have them bookmarked in Badger, a glance at their name tag could give you a 6-letter code to tap into a form, and that completes the nomination. Maybe it could even be a QR code on their event badge that you snap a picture of to submit the badge nomination.Or, say a speaker at a breakout session wants to engage the audience by handing out badges. The speaker could offer a code that represents a ready-made nomination for *you*, as the reverse of the previous scenario. This is kind of like the location-based &quot;check-in&quot; offered by Foursquare and others, only tied to a more abstract event or happening.</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="200" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [&lt;img src=&quot;img/foursquare_badges.jpg&quot; style=&quot;float:right; height: 18em; margin: 0 0 1em 1em &quot;/&gt;][foursquarebadges]\par
+[foursquarebadges]: http://www.flickr.com/photos/dpstyles/3367761841/in/photostream/\par
+{\fs28 \par
+As social objects, badges on the web will be identified by URLs and can bookmarked. People and badge}{\fs28 s can also b}{\fs28 e }{\fs28 given sh}{\fs28 orter identifiers that are friendlier for typing on mobile devices.\par
+\par
+Imagine that someone does something at an event that you really like\u8212 say it&apos;s a science fair demo or a lightning talk. You could pull }{\fs28 out you}{\fs28 r smartphone and nomi}{\fs28 nate the}{\fs28 m for a bo}{\fs28 okmarked bad}{\fs28 ge on the spot. \par
+\par
+If you don&apos;t know their name or have them bookmarked in Badger, a glance at their name tag could give you a 6-letter code to tap into a form, and that completes the nomination. Maybe it could even be a QR code on their event badge that you snap a picture of to submit the badge nomination.\par
+\par
+Or, say a speaker at a breakout session wants to engage the audience by handing out badges. The speaker could offer a code that represents a ready-made nomination for *you*, as the reverse of the previous scenario. This is kind of like the location-based &quot;check-in&quot; offered by Foursquare and others, only tied to a more abstract event or happening.\par
+\par
+}}}
+</rtf>
+</item>
+<item ID="3362597167" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:16:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T10:43:00-04:00</attribute>
+<attribute name="Name" >Decision makers and lazy achievements</attribute>
+<attribute name="ReadCount" >31</attribute>
+<attribute name="SelectionCount" >61</attribute>
+<attribute name="WindowPlace" >Rect[ 683 97 1326 797]</attribute>
+<attribute name="Xpos" >7</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >79</attribute>
+<text >At first, many badges will be people-powered in the awards process:* Bob creates a badge named &quot;Monkey Wrangler&quot;.* Tom nominates Bill to be awarded the &quot;Monkey Wrangler&quot; badge.* Bob sees the nomination, decides that Bill is indeed a wrangler of monkeys, and approves Tom&apos;s nomination* Bill sees that he&apos;s eligible to claim the &quot;Monkey Wrangler&quot; badge, and adds it to his collection.But, as a lazy coder, anything I do more than twice gives me an irresistible urge to write a script. And, as a gamer, I love the little thrill of satisfying the requirements for [an achievement on my Xbox 360][achievement].[&lt;img src=&quot;img/monkey_achievement.png&quot; style=&quot;display: block; margin: 1em auto 1em auto&quot; /&gt;][a_generator][a_generator]: http://achievements.schrankmonster.de/Let&apos;s say that Bob considers a &quot;Monkey Wrangler&quot; anyone who&apos;s fixed 25 bugs on the new FunkyMonkey JavaScript engine. So, we can build a system that watches bugs and keeps count. Once Bill has met the requirements for Bob&apos;s badge, the nomination and approval happen automatically and goes straight to Bob&apos;s inbox to be claimed.[Mozilla Pulse][pulse] and [LizardFeeder][] are systems that could play a part in this, feeding events into the badge system that could eventually be turned into automated &quot;thank you&quot; badges to contributors.I&apos;m not entirely sure how things in this area will work out, but I&apos;d like to build a system here that allows non-programmers to declare conditions for achievements and monitor those conditions on any web site or service.[pulse]: http://pulse.mozilla.org/[achievement]: http://www.xbox.com/en-US/live/engineeringblog/achievements-unlocked.htm[lizardfeeder]: http://feeds.mozilla.com/</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 At first, many badges will be people-powered in the awards process:\par
+\par
+}{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Bob creates a badge named &quot;Monkey Wrangler&quot;.\par
+* Tom nominates Bill to be awarded the &quot;Monkey Wrangler&quot; badge.\par
+* Bob sees the nomination, decides that Bill is indeed a wrangler of monkeys, and approves Tom&apos;s nomination\par
+* Bill sees that he&apos;s eligible to claim the &quot;Monkey Wrangler&quot; badge, and adds it to his collection.\par
+}{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+But, as a lazy coder, anything I do more than twice gives me an irresistible urge to write a script. And, as a gamer, I love the little thrill of satisfying the requirements for [an achievement on my Xbox 360][achievement].\par
+\par
+[&lt;img src=&quot;img/monkey_achievement.png&quot; style=&quot;display: block; margin: 1em auto 1em auto&quot; /&gt;][a_generator]\par
+[a_generator]: http://achievements.schrankmonster.de/\par
+\par
+Let&apos;s say that Bob considers a &quot;Monkey Wrangler&quot; anyone who&apos;s fixed 25 bugs on the new FunkyMonkey JavaScript engine. So, we can build a system that watches bugs and keeps count. Once Bill has met the requirements for Bob&apos;s badge, the nomination and approval happen automatically and goes straight to Bob&apos;s inbox to be claimed.\par
+\par
+[Mozilla Pulse][pulse] and [LizardFeeder][] are systems that could play a part in this, feeding events into the badge system that could eventually be turned into automated &quot;thank you&quot; badges to contributors.\par
+\par
+I&apos;m not entirely sure how things in this area will work out, but I&apos;d like to build a system here that allows non-programmers to declare conditions for achievements and monitor those conditions on any web site or service.\par
+\par
+[pulse]: http://pulse.mozilla.org/\par
+[achievement]: http://www.xbox.com/en-US/live/engineeringblog/achievements-unlocked.htm\par
+[lizardfeeder]: http://feeds.mozilla.com/}}
+</rtf>
+</item>
+<item ID="3362599201" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T23:20:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T10:58:00-04:00</attribute>
+<attribute name="Name" >Meta-Badges</attribute>
+<attribute name="ReadCount" >4</attribute>
+<attribute name="SelectionCount" >25</attribute>
+<attribute name="WindowPlace" >Rect[ 639 114 1325 772]</attribute>
+<attribute name="Xpos" >10.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >105</attribute>
+<text >Some badges could be awarded for collecting a set of other badges. Let&apos;s say you get a unique badge for every [Test Day][testday] attended. After 10 of these, you get a &quot;Test Day Hero&quot; badge. The same could apply to questions answered on [support.mozilla.org][support], or anything that helps the community over time.[&lt;img src=&quot;http://www.heroesnomore.com/img/25uldglory.png&quot; style=&quot;width: 75%; margin: 1em auto 1em auto; display: block&quot; /&gt;](http://www.heroesnomore.com/)As pictured above, this is a concept familiar to World of Warcraft players. In some cases, players stick with the game just to complete these overarching goals, making them an interesting way to encourage and reward complex and long-term activities.[support]: http://support.mozilla.org/[testday]: http://quality.mozilla.org/</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Some badges could be awarded for collecting a set of other badges. Let&apos;s say you get a unique badge for every [Test Day][testday] attended. After 10 of these, you get a &quot;Test Day Hero&quot; badge. The same could apply to questions answered on [support.mozilla.org][support], or anything that helps the community over time.\par
+\par
+[&lt;img src=&quot;http://www.heroesnomore.com/img/25uldglory.png&quot; style=&quot;width: 75%; margin: 1em auto 1em auto; display: block&quot; /&gt;](http://www.heroesnomore.com/)\par
+\par
+As pictured above, this is a concept familiar to World of Warcraft players. In some cases, players stick with the game just to complete these overarching goals, making them an interesting way to encourage and reward complex and long-term activities.\par
+\par
+[support]: http://support.mozilla.org/\par
+[testday]: http://quality.mozilla.org/}}
+</rtf>
+</item>
+<item ID="3362600761" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T23:46:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T23:48:00-04:00</attribute>
+<attribute name="Name" >Open source, open APIs</attribute>
+<attribute name="ReadCount" >3</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="WindowPlace" >Rect[ 616 181 1223 763]</attribute>
+<attribute name="Xpos" >4.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >107</attribute>
+<text >If built, this thing will be Open Source, and it will offer mashable open APIs. Organizations and groups outside of Mozilla should be able to host their own badge ecosystems and improve our code. Apps should be feasible that report on badge activity and participate in the whole process.</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 If built, this thing will be Open Source, and it will offer mashable open APIs. Organizations and groups outside of Mozilla should be able to host their own badge ecosystems and improve our code. Apps should be feasible that report on badge activity and participate in the whole process.}}
+</rtf>
+</item>
+<item ID="3362598001" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T23:00:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T10:00:00-04:00</attribute>
+<attribute name="Name" >The Next Million Mozillians</attribute>
+<attribute name="ReadCount" >24</attribute>
+<attribute name="SelectionCount" >16</attribute>
+<attribute name="WindowPlace" >Rect[ 612 84 1267 754]</attribute>
+<attribute name="Xpos" >6.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >104</attribute>
+<text >This whole time, when I&apos;ve been mentioning &quot;our community&quot;, what I&apos;ve had in mind is that slide of Boy Scouts all gathered together and the idea of [the Next Million Mozillians][millionmozillians]. These badges are for every Mozillian, not just employees or volunteers who&apos;ve uploaded a patch to Bugzilla.[millionmozillians]: http://commonspace.wordpress.com/2008/06/18/the-next-million-mozillians/It might be a bit much, but what if everyone hitting our download pages could get an &quot;I downloaded Firefox&quot; badge like the stickers and certificates made for [Download Day in 2008][downloadday]? Or say we awarded a badge the first time someone downloaded and built the Firefox source tree? Or built an add-on? Or uploaded a Persona? Or helped clean up after a party in Mozilla HQ, but worked at Google?[downloadday]: http://www.spreadfirefox.com/en-US/worldrecord/</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 This whole time, when I&apos;ve been mentioning &quot;our community&quot;, what I&apos;ve had in mind is that slide of Boy Scouts all gathered together and the idea of [the Next Million Mozillians][millionmozillians]. These badges are for every Mozillian, not just employees or volunteers who&apos;ve uploaded a patch to Bugzilla.\par
+\par
+[millionmozillians]: http://commonspace.wordpress.com/2008/06/18/the-next-million-mozillians/\par
+\par
+It might be a bit much, but what if everyone hitting our download pages could get an &quot;I downloaded Firefox&quot; badge like the stickers and certificates made for [Download Day in 2008][downloadday]? Or say we awarded a badge the first time someone downloaded and built the Firefox source tree? Or built an add-on? Or uploaded a Persona? Or helped clean up after a party in Mozilla HQ, but worked at Google?\par
+\par
+[downloadday]: http://www.spreadfirefox.com/en-US/worldrecord/\par
+}}
+</rtf>
+</item>
+<item ID="3362597169" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:42:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T09:07:00-04:00</attribute>
+<attribute name="Name" >Summary</attribute>
+<attribute name="ReadCount" >22</attribute>
+<attribute name="SelectionCount" >11</attribute>
+<attribute name="WindowPlace" >Rect[ 678 153 1358 765]</attribute>
+<attribute name="Xpos" >10.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >95</attribute>
+<text >For me, personally, this whole thing is a way to overcome my own shortcomings. I&apos;m in awe of everyone in the Mozilla community, but there&apos;s not enough time in the world for me to work out the best way to thank each individual personally and then go out and do it.So, I&apos;d like to thank everyone at Mozilla by building a thing that lets everyone thank everyone else in a shared and open space.</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 For me, personally, this whole thing is a way to overcome my own shortcomings. I&apos;m in awe of everyone in the Mozilla community, but there&apos;s not enough time in the world for me to work out the best way to thank each individual personally and then go out and do it.\par
+\par
+So, I&apos;d like to thank everyone at Mozilla by building a thing that lets everyone thank everyone else in a shared and open space.\par
+}}
+</rtf>
+</item>
+</item>
+<item ID="3362597170" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:13:00-04:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="HTMLExportChildren" >false</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-07-21T20:13:00-04:00</attribute>
+<attribute name="Name" >Notes</attribute>
+<attribute name="OnAdd" >$Prototype=&quot;*notes&quot;</attribute>
+<attribute name="SelectionCount" >12</attribute>
+<attribute name="Separator" >true</attribute>
+<attribute name="Xpos" >7</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >75</attribute>
+<item ID="3362597171" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:26:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T20:27:00-04:00</attribute>
+<attribute name="Name" >The Mozilla Mission</attribute>
+<attribute name="ReadCount" >30</attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="WindowPlace" >Rect[ 799 66 1389 480]</attribute>
+<attribute name="Xpos" >7</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >85</attribute>
+<text >Mozilla&apos;s mission is to promote openness, innovation, and opportunity on the web. We do this by creating great software, like the Firefox browser, and building movements, like Drumbeat, that give people tools to take control of their online lives.As a non-profit organization, we define success in terms of building communities and enriching people’s lives instead of benefiting our shareholders (guess what: we don’t even have shareholders). We believe in the power and potential of the Internet and want to see it thrive for everyone, everywhere.Building a better Internet is an ambitious goal, but we believe that it is possible when people who share our passion get involved. Coders, artists, writers, testers, surfers, students, grandparents—anyone who uses and cares about the web can help make it even better. Find out how you can help.</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Mozilla&apos;s mission is to promote openness, innovation, and opportunity on the web. We do this by creating great software, like the Firefox browser, and building movements, like Drumbeat, that give people tools to take control of their online lives.\par
+\par
+As a non-profit organization, we define success in terms of building communities and enriching people\u8217 s lives instead of benefiting our shareholders (guess what: we don\u8217 t even have shareholders). We believe in the power and potential of the Internet and want to see it thrive for everyone, everywhere.\par
+\par
+Building a better Internet is an ambitious goal, but we believe that it is possible when people who share our passion get involved. Coders, artists, writers, testers, surfers, students, grandparents\u8212 anyone who uses and cares about the web can help make it even better. Find out how you can help.\par
+}}
+</rtf>
+</item>
+<item ID="3362597172" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:30:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T20:31:00-04:00</attribute>
+<attribute name="Name" >The Mozilla Manifesto</attribute>
+<attribute name="ReadCount" >20</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="WindowPlace" >Rect[ 730 126 1408 866]</attribute>
+<attribute name="Xpos" >10.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >90</attribute>
+<text >The Mozilla ManifestoIntroductionThe Internet is becoming an increasingly important part of our lives.The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.The goals for the Manifesto are to:* articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;* speak to people whether or not they have a technical background;* make Mozilla contributors proud of what we&apos;re doing and motivate us to continue; and* provide a framework for other people to advance this vision of the Internet.These principles will not come to life on their own. People are needed to make the Internet open and participatory - people acting as individuals, working together in groups, and leading others. The Mozilla Foundation is committed to advancing the principles set out in the Mozilla Manifesto. We invite others to join us and make the Internet an ever better place for everyone.Principles    The Internet is an integral part of modern life–a key component in education, communication, collaboration, business, entertainment and society as a whole.    The Internet is a global public resource that must remain open and accessible.    The Internet should enrich the lives of individual human beings.    Individuals&apos; security on the Internet is fundamental and cannot be treated as optional.    Individuals must have the ability to shape their own experiences on the Internet.    The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.    Free and open source software promotes the development of the Internet as a public resource.    Transparent community-based processes promote participation, accountability, and trust.    Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.    Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.Advancing the Mozilla ManifestoThere are many different ways of advancing the principles of the Mozilla Manifesto. We welcome a broad range of activities, and anticipate the same creativity that Mozilla participants have shown in other areas of the project. For individuals not deeply involved in the Mozilla project, one basic and very effective way to support the Manifesto is to use Mozilla Firefox and other products that embody the principles of the Manifesto.Mozilla Foundation PledgeThe Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:    build and enable open-source technologies and communities that support the Manifesto&apos;s principles;    build and deliver great consumer products that support the Manifesto&apos;s principles;    use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;    promote models for creating economic value for the public benefit; and    promote the Mozilla Manifesto principles in public discourse and within the Internet industry.Some Foundation activities–currently the creation, delivery and promotion of consumer products–are conducted primarily through the Mozilla Foundation&apos;s wholly owned subsidiary, the Mozilla Corporation.InvitationThe Mozilla Foundation invites all others who support the principles of the Mozilla Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 The Mozilla Manifesto\par
+Introduction\par
+\par
+The Internet is becoming an increasingly important part of our lives.\par
+\par
+The Mozilla project is a global community of people who believe that openness, innovation, and opportunity are key to the continued health of the Internet. We have worked together since 1998 to ensure that the Internet is developed in a way that benefits everyone. We are best known for creating the Mozilla Firefox web browser.\par
+\par
+The Mozilla project uses a community-based approach to create world-class open source software and to develop new types of collaborative activities. We create communities of people involved in making the Internet experience better for all of us.\par
+\par
+As a result of these efforts, we have distilled a set of principles that we believe are critical for the Internet to continue to benefit the public good as well as commercial aspects of life. We set out these principles below.\par
+\par
+The goals for the Manifesto are to:\par
+\par
+}{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * articulate a vision for the Internet that Mozilla participants want the Mozilla Foundation to pursue;\par
+* speak to people whether or not they have a technical background;\par
+* make Mozilla contributors proud of what we&apos;re doing and motivate us to continue; and\par
+* provide a framework for other people to advance this vision of the Internet.\par
+}{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+These principles will not come to life on their own. People are needed to make the Internet open and participatory - people acting as individuals, working together in groups, and leading others. The Mozilla Foundation is committed to advancing the principles set out in the Mozilla Manifesto. We invite others to join us and make the Internet an ever better place for everyone.\par
+Principles\par
+\par
+    The Internet is an integral part of modern life\u8211 a key component in education, communication, collaboration, business, entertainment and society as a whole.\par
+    The Internet is a global public resource that must remain open and accessible.\par
+    The Internet should enrich the lives of individual human beings.\par
+    Individuals&apos; security on the Internet is fundamental and cannot be treated as optional.\par
+    Individuals must have the ability to shape their own experiences on the Internet.\par
+    The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.\par
+    Free and open source software promotes the development of the Internet as a public resource.\par
+    Transparent community-based processes promote participation, accountability, and trust.\par
+    Commercial involvement in the development of the Internet brings many benefits; a balance between commercial goals and public benefit is critical.\par
+    Magnifying the public benefit aspects of the Internet is an important goal, worthy of time, attention and commitment.\par
+\par
+Advancing the Mozilla Manifesto\par
+\par
+There are many different ways of advancing the principles of the Mozilla Manifesto. We welcome a broad range of activities, and anticipate the same creativity that Mozilla participants have shown in other areas of the project. For individuals not deeply involved in the Mozilla project, one basic and very effective way to support the Manifesto is to use Mozilla Firefox and other products that embody the principles of the Manifesto.\par
+Mozilla Foundation Pledge\par
+\par
+The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:\par
+\par
+    build and enable open-source technologies and communities that support the Manifesto&apos;s principles;\par
+    build and deliver great consumer products that support the Manifesto&apos;s principles;\par
+    use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;\par
+    promote models for creating economic value for the public benefit; and\par
+    promote the Mozilla Manifesto principles in public discourse and within the Internet industry.\par
+\par
+Some Foundation activities\u8211 currently the creation, delivery and promotion of consumer products\u8211 are conducted primarily through the Mozilla Foundation&apos;s wholly owned subsidiary, the Mozilla Corporation.\par
+Invitation\par
+\par
+The Mozilla Foundation invites all others who support the principles of the Mozilla Manifesto to join with us, and to find new ways to make this vision of the Internet a reality.\par
+}}
+</rtf>
+<item ID="3362597173" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:29:00-04:00</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-07-21T20:29:00-04:00</attribute>
+<attribute name="Name" >&quot;3. The Internet should enrich the lives of individual human beings.&quot;</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >89</attribute>
+</item>
+<item ID="3362597174" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:27:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T20:27:00-04:00</attribute>
+<attribute name="Name" >&quot;5. Individuals must have the ability to shape their own experiences on the Internet.&quot;</attribute>
+<attribute name="SelectionCount" >13</attribute>
+<attribute name="Xpos" >1</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >86</attribute>
+</item>
+<item ID="3362597175" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:28:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T20:28:00-04:00</attribute>
+<attribute name="Name" >&quot;6. The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.&quot;</attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Xpos" >1.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >87</attribute>
+</item>
+<item ID="3362597176" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:28:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T20:28:00-04:00</attribute>
+<attribute name="Name" >&quot;8. Transparent community-based processes promote participation, accountability, and trust.&quot;</attribute>
+<attribute name="SelectionCount" >13</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >88</attribute>
+</item>
+</item>
+<item ID="3362597177" Creator="lmorchard" >
+<attribute name="Created" >2010-07-21T20:18:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T20:18:00-04:00</attribute>
+<attribute name="Name" >Mozilla Pulse</attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >80</attribute>
+</item>
+</item>
+<item ID="3358681330" Creator="lmorchard" >
+<attribute name="Created" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="HTMLExportChildren" >false</attribute>
+<attribute name="HTMLMarkupText" >false</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="Name" >Internals</attribute>
+<attribute name="OnAdd" >if ($Prototype=&quot;&quot;) { $Prototype=&quot;*folder&quot; }</attribute>
+<attribute name="ReadCount" >7</attribute>
+<attribute name="SelectionCount" >41</attribute>
+<attribute name="Separator" >true</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >12</attribute>
+<item ID="3358681331" Creator="lmorchard" >
+<attribute name="Badge" >folder</attribute>
+<attribute name="Created" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="Name" >Prototypes</attribute>
+<attribute name="OnAdd" >$IsPrototype=True</attribute>
+<attribute name="ReadCount" >4</attribute>
+<attribute name="SelectionCount" >17</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >13</attribute>
+<item ID="3358681332" Creator="lmorchard" >
+<attribute name="Badge" >web</attribute>
+<attribute name="Created" >2010-06-04T23:03:00-04:00</attribute>
+<attribute name="HTMLExportTemplate" >/Internals/Templates/article.html</attribute>
+<attribute name="HTMLFirstParagraphEnd" ></attribute>
+<attribute name="HTMLFirstParagraphStart" ></attribute>
+<attribute name="HTMLIndentedParagraphEnd" ></attribute>
+<attribute name="HTMLIndentedParagraphStart" ></attribute>
+<attribute name="HTMLParagraphEnd" ></attribute>
+<attribute name="HTMLParagraphStart" ></attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="KeyAttributes" >FullName;Email;Address;Twitter;Organization</attribute>
+<attribute name="Modified" >2010-06-04T23:03:00-04:00</attribute>
+<attribute name="Name" >*article</attribute>
+<attribute name="OnAdd" >if ($Prototype=&quot;&quot;) { $Prototype=&quot;*section&quot; } </attribute>
+<attribute name="ReadCount" >7</attribute>
+<attribute name="SelectionCount" >57</attribute>
+<attribute name="TextSidebar" >true</attribute>
+<attribute name="Xpos" >6.5</attribute>
+<attribute name="Ypos" >1</attribute>
+<attribute name="id" >14</attribute>
+</item>
+<item ID="3358681333" Creator="lmorchard" >
+<attribute name="Badge" >arrow right</attribute>
+<attribute name="Created" >2010-06-04T23:03:00-04:00</attribute>
+<attribute name="HTMLExportTemplate" >/Internals/Templates/section.html</attribute>
+<attribute name="HTMLFirstParagraphEnd" ></attribute>
+<attribute name="HTMLFirstParagraphStart" ></attribute>
+<attribute name="HTMLIndentedParagraphEnd" ></attribute>
+<attribute name="HTMLIndentedParagraphStart" ></attribute>
+<attribute name="HTMLParagraphEnd" ></attribute>
+<attribute name="HTMLParagraphStart" ></attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="Modified" >2010-06-17T23:49:00-04:00</attribute>
+<attribute name="Name" >*section</attribute>
+<attribute name="OnAdd" >if ($Prototype=&quot;&quot;) { $Prototype=&quot;*section&quot; }</attribute>
+<attribute name="ReadCount" >10</attribute>
+<attribute name="SelectionCount" >43</attribute>
+<attribute name="Xpos" >10</attribute>
+<attribute name="Ypos" >1</attribute>
+<attribute name="id" >15</attribute>
+</item>
+<item ID="3358796521" Creator="lmorchard" >
+<attribute name="AutomaticIndent" >false</attribute>
+<attribute name="Badge" >tools</attribute>
+<attribute name="Color" >dark black</attribute>
+<attribute name="Created" >2010-06-07T23:02:00-04:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="HTMLFirstParagraphEnd" ></attribute>
+<attribute name="HTMLFirstParagraphStart" ></attribute>
+<attribute name="HTMLIndentedParagraphEnd" ></attribute>
+<attribute name="HTMLIndentedParagraphStart" ></attribute>
+<attribute name="HTMLParagraphEnd" ></attribute>
+<attribute name="HTMLParagraphStart" ></attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="IsTemplate" >true</attribute>
+<attribute name="Modified" >2010-06-07T23:02:00-04:00</attribute>
+<attribute name="Name" >*template</attribute>
+<attribute name="ParagraphSpacing" >0</attribute>
+<attribute name="ReadCount" >5</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="TextFont" >Andale Mono</attribute>
+<attribute name="Xpos" >17</attribute>
+<attribute name="Ypos" >1</attribute>
+<attribute name="id" >22</attribute>
+</item>
+<item ID="3359203948" Creator="lmorchard" >
+<attribute name="Badge" >folder</attribute>
+<attribute name="Created" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="Modified" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="Name" >*folder</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Xpos" >20.5</attribute>
+<attribute name="Ypos" >1</attribute>
+<attribute name="id" >28</attribute>
+</item>
+<item ID="3359203951" Creator="lmorchard" >
+<attribute name="Badge" >application</attribute>
+<attribute name="Created" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="Modified" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="Name" >*script</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Xpos" >24</attribute>
+<attribute name="Ypos" >1</attribute>
+<attribute name="id" >31</attribute>
+</item>
+<item ID="3362597178" Creator="lmorchard" >
+<attribute name="Badge" >memo</attribute>
+<attribute name="Created" >2010-07-21T20:24:00-04:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="HTMLExportChildren" >false</attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="Modified" >2010-07-21T20:24:00-04:00</attribute>
+<attribute name="Name" >*notes</attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Xpos" >6.5</attribute>
+<attribute name="Ypos" >2.5</attribute>
+<attribute name="id" >84</attribute>
+</item>
+</item>
+<item ID="3358681335" Creator="lmorchard" >
+<attribute name="Badge" >folder</attribute>
+<attribute name="Created" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="Modified" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="Name" >Templates</attribute>
+<attribute name="ReadCount" >2</attribute>
+<attribute name="SelectionCount" >13</attribute>
+<attribute name="Xpos" >3</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >17</attribute>
+<item ID="3358681336" Creator="lmorchard" >
+<attribute name="Created" >2010-06-04T23:15:00-04:00</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-06-12T17:53:00-04:00</attribute>
+<attribute name="Name" >article.html</attribute>
+<attribute name="ReadCount" >213</attribute>
+<attribute name="SelectionCount" >174</attribute>
+<attribute name="WindowPlace" >Rect[ 101 220 956 864]</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >18</attribute>
+<text >&lt;!DOCTYPE html&gt;&lt;html&gt;	&lt;head&gt;		&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;		&lt;title&gt;^title^&lt;/title&gt;		&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/article.css&quot; /&gt;	&lt;/head&gt;	&lt;body&gt;		&lt;article id=&quot;article-^value($id)^&quot;&gt;			&lt;h1&gt;				^if($URL)^&lt;a href=&quot;^value($URL)^&quot;&gt;^title^&lt;/a&gt;				^else^&lt;a href=&quot;#article-^value($id)^&quot;&gt;^title^&lt;/a&gt;				^endIf^			&lt;/h1&gt;			&lt;p class=&quot;meta&quot;&gt;				Last updated at &lt;span class=&quot;modified&quot;&gt;^lastModified(this, &quot;*&quot;)^&lt;/span&gt;			&lt;/p&gt;					&lt;p class=&quot;author vcard&quot;&gt;				by &lt;a class=&quot;fn url&quot; href=&quot;^value($Address)^&quot;&gt;^value($FullName)^&lt;/a&gt;				^if($Email)^ / &lt;a class=&quot;email&quot; href=&quot;mailto:^value($Email)^&quot;&gt;^value($Email)^&lt;/a&gt;^endIf^				^if($Twitter)^ / &lt;a class=&quot;twitter&quot; href=&quot;http://twitter.com/^value($Twitter)^&quot;&gt;@^value($Twitter)&lt;/a&gt;^endIf^			&lt;/p&gt;			^value(runCommand($Text(Markdown),^text^))^			&lt;div class=&quot;toc&quot;&gt;				&lt;h2&gt;Table of Contents&lt;/h2&gt;				&lt;ul&gt;^justChildren(toc-section.html)^&lt;/ul&gt;			&lt;/div&gt;			^justChildren^		&lt;/article&gt;		&lt;footer&gt;&lt;p&gt;			Last updated at &lt;span class=&quot;modified&quot;&gt;^lastModified(this, &quot;*&quot;)^&lt;/span&gt;			by &lt;a class=&quot;fn url&quot; href=&quot;^value($Address)^&quot;&gt;^value($FullName)^&lt;/a&gt;			^if($Email)^ / &lt;a class=&quot;email&quot; href=&quot;mailto:^value($Email)^&quot;&gt;^value($Email)^&lt;/a&gt;^endIf^			^if($Twitter)^ / &lt;a class=&quot;twitter&quot; href=&quot;http://twitter.com/^value($Twitter)^&quot;&gt;@^value($Twitter)&lt;/a&gt;^endIf^		&lt;/p&gt;&lt;/footer&gt;		&lt;script type=&quot;text/javascript&quot; src=&quot;js/article.js&quot;&gt;&lt;/script&gt;	&lt;/body&gt;&lt;/html&gt;</text>
+<styles >
+ <tstyle font="Andale Mono" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fnil\fcharset77 Andale Mono;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 &lt;!DOCTYPE html&gt;\par
+&lt;html&gt;\par
+\tab &lt;head&gt;\par
+\tab \tab &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;\par
+\tab \tab &lt;title&gt;^title^&lt;/title&gt;\par
+\tab \tab &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;css/article.css&quot; /&gt;\par
+\tab &lt;/head&gt;\par
+\tab &lt;body&gt;\par
+\tab \tab &lt;article id=&quot;article-^value($id)^&quot;&gt;\par
+\tab \tab \tab &lt;h1&gt;\par
+\tab \tab \tab \tab ^if($URL)^&lt;a href=&quot;^value($URL)^&quot;&gt;^title^&lt;/a&gt;\par
+\tab \tab \tab \tab ^else^&lt;a href=&quot;#article-^value($id)^&quot;&gt;^title^&lt;/a&gt;\par
+\tab \tab \tab \tab ^endIf^\par
+\tab \tab \tab &lt;/h1&gt;\par
+\tab \tab \tab &lt;p class=&quot;meta&quot;&gt;\par
+\tab \tab \tab \tab Last updated at &lt;span class=&quot;modified&quot;&gt;^lastModified(this, &quot;*&quot;)^&lt;/span&gt;\par
+\tab \tab \tab &lt;/p&gt;\tab \tab \par
+\tab \tab \tab &lt;p class=&quot;author vcard&quot;&gt;\par
+\tab \tab \tab \tab by &lt;a class=&quot;fn url&quot; href=&quot;^value($Address)^&quot;&gt;^value($FullName)^&lt;/a&gt;\par
+\tab \tab \tab \tab ^if($Email)^ / &lt;a class=&quot;email&quot; href=&quot;mailto:^value($Email)^&quot;&gt;^value($Email)^&lt;/a&gt;^endIf^\par
+\tab \tab \tab \tab ^if($Twitter)^ / &lt;a class=&quot;twitter&quot; href=&quot;http://twitter.com/^value($Twitter)^&quot;&gt;@^value($Twitter)&lt;/a&gt;^endIf^\par
+\tab \tab \tab &lt;/p&gt;\par
+\tab \tab \tab ^value(runCommand($Text(Markdown),^text^))^\par
+\tab \tab \tab &lt;div class=&quot;toc&quot;&gt;\par
+\tab \tab \tab \tab &lt;h2&gt;Table of Contents&lt;/h2&gt;\par
+\tab \tab \tab \tab &lt;ul&gt;^justChildren(toc-section.html)^&lt;/ul&gt;\par
+\tab \tab \tab &lt;/div&gt;\par
+\tab \tab \tab ^justChildren^\par
+\tab \tab &lt;/article&gt;\par
+\tab \tab &lt;footer&gt;&lt;p&gt;\par
+\tab \tab \tab Last updated at &lt;span class=&quot;modified&quot;&gt;^lastModified(this, &quot;*&quot;)^&lt;/span&gt;\par
+\tab \tab \tab by &lt;a class=&quot;fn url&quot; href=&quot;^value($Address)^&quot;&gt;^value($FullName)^&lt;/a&gt;\par
+\tab \tab \tab ^if($Email)^ / &lt;a class=&quot;email&quot; href=&quot;mailto:^value($Email)^&quot;&gt;^value($Email)^&lt;/a&gt;^endIf^\par
+\tab \tab \tab ^if($Twitter)^ / &lt;a class=&quot;twitter&quot; href=&quot;http://twitter.com/^value($Twitter)^&quot;&gt;@^value($Twitter)&lt;/a&gt;^endIf^\par
+\tab \tab &lt;/p&gt;&lt;/footer&gt;\par
+\tab \tab &lt;script type=&quot;text/javascript&quot; src=&quot;js/article.js&quot;&gt;&lt;/script&gt;\par
+\tab &lt;/body&gt;\par
+&lt;/html&gt;\par
+}}
+</rtf>
+</item>
+<item ID="3358681337" Creator="lmorchard" >
+<attribute name="Created" >2010-06-04T23:22:00-04:00</attribute>
+<attribute name="HTMLExportTemplate" >/Internals/Templates/section.html</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-06-05T17:45:00-04:00</attribute>
+<attribute name="Name" >section.html</attribute>
+<attribute name="ReadCount" >62</attribute>
+<attribute name="SelectionCount" >48</attribute>
+<attribute name="WindowPlace" >Rect[ 707 462 1178 812]</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >19</attribute>
+<text >&lt;section id=&quot;section-^value($id)^&quot;&gt;	&lt;h^value($OutlineDepth)^&gt;&lt;a href=&quot;#section-^value($id)^&quot;&gt;^title^&lt;/a&gt;&lt;/h^value($OutlineDepth)^&gt;	^value(runCommand(&quot;perl /usr/local/bin/Markdown.pl&quot;,($Text)))^	^justChildren^&lt;/section&gt;</text>
+<styles >
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fnil\fcharset77 Lucida Grande;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 &lt;section id=&quot;section-^value($id)^&quot;&gt;\par
+\tab &lt;h^value($OutlineDepth)^&gt;&lt;a href=&quot;#section-^value($id)^&quot;&gt;^title^&lt;/a&gt;&lt;/h^value($OutlineDepth)^&gt;\par
+\tab ^value(runCommand(&quot;perl /usr/local/bin/Markdown.pl&quot;,($Text)))^\par
+\tab ^justChildren^\par
+&lt;/section&gt;}}
+</rtf>
+</item>
+<item ID="3358681338" Creator="lmorchard" >
+<attribute name="Created" >2010-06-06T13:19:00-04:00</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-06-06T13:32:00-04:00</attribute>
+<attribute name="Name" >toc-section.html</attribute>
+<attribute name="ReadCount" >19</attribute>
+<attribute name="SelectionCount" >12</attribute>
+<attribute name="WindowPlace" >Rect[ 619 569 1319 869]</attribute>
+<attribute name="Xpos" >7</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >20</attribute>
+<text >&lt;li&gt;&lt;a href=&quot;#section-^value($id)^&quot;&gt;^title^&lt;/a&gt;	^if(ChildCount&gt;0)^		&lt;ul&gt;^justChildren(toc-section.html)^&lt;/ul&gt;	^endIf^&lt;/li&gt;</text>
+<styles >
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fnil\fcharset77 Lucida Grande;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 &lt;li&gt;&lt;a href=&quot;#section-^value($id)^&quot;&gt;^title^&lt;/a&gt;\par
+\tab ^if(ChildCount&gt;0)^\par
+\tab \tab &lt;ul&gt;^justChildren(toc-section.html)^&lt;/ul&gt;\par
+\tab ^endIf^\par
+&lt;/li&gt;\par
+}}
+</rtf>
+</item>
+<item ID="3358681352" Creator="lmorchard" >
+<attribute name="Created" >2010-06-06T14:35:00-04:00</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-06-06T14:35:00-04:00</attribute>
+<attribute name="Name" >plain.txt</attribute>
+<attribute name="ReadCount" >1</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Xpos" >10.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >21</attribute>
+<text >^text^</text>
+<styles >
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fnil\fcharset77 Lucida Grande;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 ^text^}}
+</rtf>
+</item>
+</item>
+<item ID="3359203949" Creator="lmorchard" >
+<attribute name="Created" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="Name" >Scripts</attribute>
+<attribute name="OnAdd" >if ($Prototype=&quot;&quot;) { $Prototype=&quot;*script&quot; }</attribute>
+<attribute name="SelectionCount" >9</attribute>
+<attribute name="Xpos" >6.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >29</attribute>
+<item ID="3359203982" Creator="lmorchard" >
+<attribute name="Created" >2010-06-12T16:13:00-04:00</attribute>
+<attribute name="Modified" >2010-06-12T19:27:00-04:00</attribute>
+<attribute name="Name" >Markdown</attribute>
+<attribute name="ReadCount" >13</attribute>
+<attribute name="SelectionCount" >35</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >34</attribute>
+<text >sed &apos;1 s/^&quot;//; $ s/&quot;$//&apos; | perl /usr/local/bin/Markdown.pl</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 sed &apos;1 s/^&quot;//; $ s/&quot;$//&apos; | perl /usr/local/bin/Markdown.pl}}
+</rtf>
+</item>
+<item ID="3359203983" Creator="lmorchard" >
+<attribute name="Created" >2010-06-12T16:13:00-04:00</attribute>
+<attribute name="Modified" >2010-06-12T16:13:00-04:00</attribute>
+<attribute name="Name" >Cat</attribute>
+<attribute name="ReadCount" >1</attribute>
+<attribute name="SelectionCount" >11</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >35</attribute>
+<text >cat</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 cat}}
+</rtf>
+</item>
+<item ID="3359209201" Creator="lmorchard" >
+<attribute name="Created" >2010-06-12T17:40:00-04:00</attribute>
+<attribute name="Modified" >2010-06-12T17:45:00-04:00</attribute>
+<attribute name="Name" >sed</attribute>
+<attribute name="ReadCount" >51</attribute>
+<attribute name="SelectionCount" >24</attribute>
+<attribute name="Xpos" >5.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >41</attribute>
+<text >sed &apos;1 s/^&quot;//&apos; | sed &apos;$ s/&quot;$//&apos;</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 sed &apos;1 s/^&quot;//&apos; | sed &apos;$ s/&quot;$//&apos;}}
+</rtf>
+</item>
+<item ID="3359206861" Creator="lmorchard" >
+<attribute name="Created" >2010-06-12T17:01:00-04:00</attribute>
+<attribute name="Modified" >2010-06-12T17:01:00-04:00</attribute>
+<attribute name="Name" >vim</attribute>
+<attribute name="ReadCount" >1</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Xpos" >7</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="id" >40</attribute>
+<text >cat - &gt; /tmp/tinder.txt; /Users/lorchard/Applications/mvim -f /tmp/tinder.txt; cat /tmp/tinder.txt</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 cat - &gt; /tmp/tinder.txt; /Users/lorchard/Applications/mvim -f /tmp/tinder.txt; cat /tmp/tinder.txt\par
+}}
+</rtf>
+</item>
+</item>
+</item>
+</item>
+<links >
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3358681308" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3358681330" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681332" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3358681341" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358796521" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3358681337" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358796521" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3358681338" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358796521" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3358681352" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358796521" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3358681336" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358796521" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3358681337" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358796521" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3358681338" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358796521" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3358681352" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3359203948" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3359203949" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3359203951" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3359203982" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3359203951" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3359203983" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3359203951" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3359206861" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3359203951" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3359209201" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597167" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597164" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3362597178" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597177" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3362597178" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597171" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3362597178" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597174" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3362597178" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597175" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3362597178" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597176" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3362597178" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597173" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3362597178" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597172" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597166" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597169" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362591221" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597162" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597168" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3362597178" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597163" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3362597178" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597165" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3362597178" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362597179" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362598001" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362599201" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362600161" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362600761" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362634541" destcreator="lmorchard"  />
+</links>
+<macros >
+<macro name="foo" >This is foo</macro>
+</macros>
+<preferences >
+   <Creator > lmorchard</Creator>
+   <ToolbarVisible > 0</ToolbarVisible>
+   <OpenTextImmediately > 0</OpenTextImmediately>
+   <RunScriptsAutomatically > 1</RunScriptsAutomatically>
+   <Tinderbox5Wizard > 0</Tinderbox5Wizard>
+   <DynamicSpelling > 1</DynamicSpelling>
+   <AutoOpen > 1</AutoOpen>
+   <RememberWindowPositions > 1</RememberWindowPositions>
+   <KeepWindowsOpen > 1</KeepWindowsOpen>
+   <LeftMargin > 2</LeftMargin>
+   <RightMargin > -2</RightMargin>
+   <ParagraphSpacing > 2</ParagraphSpacing>
+   <MagnifyFonts > 1</MagnifyFonts>
+   <TextFont > Monaco</TextFont>
+   <TextSize > 4</TextSize>
+   <TextJust > 0</TextJust>
+   <AlwaysShowTextLinks > 0</AlwaysShowTextLinks>
+   <TextLinkFrames > 1</TextLinkFrames>
+   <TextLinkColor > 0 26112 52224</TextLinkColor>
+   <VisitedLinkColor > 26112 0 52224</VisitedLinkColor>
+   <ActiveLinkColor > 65535 0 0</ActiveLinkColor>
+   <MagnifyPictures > 1</MagnifyPictures>
+   <TextWindowWidth > 6</TextWindowWidth>
+   <TextWindowHeight > 4</TextWindowHeight>
+   <TextBackgroundColor > 65535 65535 65535</TextBackgroundColor>
+   <TextColor > 0 0 0</TextColor>
+   <ShowSidebar > 0</ShowSidebar>
+   <AutoIndentLists > 1</AutoIndentLists>
+   <ShowTitle > 1</ShowTitle>
+   <TitleBackgroundColor > 0 0 0</TitleBackgroundColor>
+   <TitleForegroundColor > 65535 65535 65535</TitleForegroundColor>
+   <TitleFont > Lucida Grande</TitleFont>
+   <TitleSize > 2</TitleSize>
+   <TitleJust > 2</TitleJust>
+   <MapShowLinks > 1</MapShowLinks>
+   <MapEnacted > 1</MapEnacted>
+   <InPlaceEditing > 1</InPlaceEditing>
+   <MapLabelSize > 3</MapLabelSize>
+   <MapBackgroundColor > 65535 65535 65535</MapBackgroundColor>
+   <MapPrototypeColor > 56797 61166 56797</MapPrototypeColor>
+   <MapFont > Lucida Grande</MapFont>
+   <DarkenOutlineColors > 0</DarkenOutlineColors>
+   <BlackOutlineText > 0</BlackOutlineText>
+   <OutlineLeading > 2</OutlineLeading>
+   <InteriorScale > 1</InteriorScale>
+   <ExpandMode > 1</ExpandMode>
+   <ExportImageFormat > 1</ExportImageFormat>
+   <ExportURL > http://</ExportURL>
+   <ExportHTMLCreator > 1</ExportHTMLCreator>
+   <ExportHTMLHelper > Safari</ExportHTMLHelper>
+   <ExportHTMLExtension > 0</ExportHTMLExtension>
+   <HTMLParagraphStyle > 1</HTMLParagraphStyle>
+   <HTMLViewFont > Lucida Grande</HTMLViewFont>
+   <HTMLViewFontSize > 2</HTMLViewFontSize>
+   <ExportTemplatePath > Portafilter:Users:lorchard:Applications:Tinderbox.app:Contents:MacOS:templates:html:plain</ExportTemplatePath>
+   <ExportTemplate > Portafilter:Users:lorchard:Applications:Tinderbox.app:Contents:MacOS:templates:html:plain</ExportTemplate>
+   <ExportTextTemplate > Portafilter:Users:lorchard:Applications:Tinderbox.app:Contents:MacOS:templates:text:outline</ExportTextTemplate>
+   <RoadmapWindowWidth > 0</RoadmapWindowWidth>
+   <RoadmapWindowHeight > 0</RoadmapWindowHeight>
+   <ExportTextCreator > 1</ExportTextCreator>
+   <TextExportViewFont > Lucida Grande</TextExportViewFont>
+   <TextExportViewFontSize > 2</TextExportViewFontSize>
+   <ExportTextTemplatePath > Portafilter:Users:lorchard:Applications:Tinderbox.app:Contents:MacOS:templates:text:outline</ExportTextTemplatePath>
+   <ExportTextHelper > TextEdit</ExportTextHelper>
+   <AskToDelete > 1</AskToDelete>
+   <DailyTip > 1</DailyTip>
+   <WarnEditingDefault > 1</WarnEditingDefault>
+   <WarnDuplicateName > 1</WarnDuplicateName>
+   <Version > version 5.5.3</Version>
+   <PreferencePane > 1</PreferencePane>
+   <Fontmap > 4
+ -16896 Andale Mono
+ -512 Menlo Regular
+ 4 Monaco
+ 1024 Lucida Grande
+</Fontmap>
+   <TipWindowX > 300</TipWindowX>
+   <TipWindowY > 50</TipWindowY>
+   <RegUserName > leslie orchard</RegUserName>
+   <RegUserOrg > </RegUserOrg>
+   <CurrentAttributeClass > General</CurrentAttributeClass>
+   <CurrentAttribute > Prototype</CurrentAttribute>
+   <FindCaseSensitive > 1</FindCaseSensitive>
+   <ExportFolder > Portafilter:Users:lorchard:Desktop:badger-whitepaper:</ExportFolder>
+   <ReadOnly > 0</ReadOnly>
+   <InfoWindowHeight > 705</InfoWindowHeight>
+   <InfoWindowWidth > 696</InfoWindowWidth>
+   <RecentFiles > &lt;files &gt;
+&lt;file &gt;Portafilter:Users:lorchard:Desktop:tinderbox-html5:article.tbx&lt;/file&gt;
+&lt;file &gt;Portafilter:Users:lorchard:Desktop:daybook.tbx&lt;/file&gt;
+&lt;file &gt;Portafilter:Users:lorchard:Desktop:Flint:Flint.tbx&lt;/file&gt;
+&lt;file &gt;Portafilter:Users:lorchard:Desktop:byob-ui-blog:BYOB Bookmark UI.tbx&lt;/file&gt;
+&lt;file &gt;Portafilter:Users:lorchard:devel:decafbad:recaffeinated:recaffeinated.tbx&lt;/file&gt;
+&lt;file &gt;Portafilter:Users:lorchard:Desktop:wtf.tbx&lt;/file&gt;
+&lt;file &gt;Portafilter:Users:lorchard:Documents:main.tbx&lt;/file&gt;
+&lt;/files&gt;
+</RecentFiles>
+   <PingServer > http://rpc.weblogs.com/RPC2</PingServer>
+   <PingMethod > weblogUpdates.ping</PingMethod>
+   <PingTitle > your weblog name</PingTitle>
+   <PingURL > weblog URL</PingURL>
+      <PingTechnorati > 1</PingTechnorati>
+   <PingWeblogsCom > 1</PingWeblogsCom>
+   <PingGoogle > 1</PingGoogle>
+   <PingFeedURL > </PingFeedURL>
+   <WeblogServer > http://your_host/cgi-bin/mt/mt-xmlrpc.cgi</WeblogServer>
+   <WeblogUser > </WeblogUser>
+   <WeblogPassword > </WeblogPassword>
+   <WeblogID > 1</WeblogID>
+   <WeblogKind > 2</WeblogKind>
+   <ToolbarKind > 3</ToolbarKind>
+   <ReadingReminders > 0</ReadingReminders>
+   <AllowViews > 1</AllowViews>
+   <AutomaticAgentUpdate > 1</AutomaticAgentUpdate>
+   <ToolbarX > 723</ToolbarX>
+   <ToolbarY > 675</ToolbarY>
+   <FindWindowX > 600</FindWindowX>
+   <FindWindowY > 100</FindWindowY>
+   <RenameWindowX > 569</RenameWindowX>
+   <RenameWindowY > 95</RenameWindowY>
+   <UpdateViewShown > 6/4/10 10:14 PM</UpdateViewShown>
+   <ExportTextTemplatePath > Portafilter:Users:lorchard:Applications:Tinderbox.app:Contents:MacOS:templates:text:outline</ExportTextTemplatePath>
+   <LeftMargin > 2</LeftMargin>
+   <RightMargin > -2</RightMargin>
+   <ParagraphSpacing > 2</ParagraphSpacing>
+   <MagnifyFonts > 1</MagnifyFonts>
+   <SoundOn > 1</SoundOn>
+   <BecomeReadOnly > 0</BecomeReadOnly>
+   <CheckMail > 0</CheckMail>
+   <MailHost > </MailHost>
+   <MailUser > </MailUser>
+   <MailPassword > </MailPassword>
+   <CheckSimplenote > 0</CheckSimplenote>
+   <SimplenoteEmail > </SimplenoteEmail>
+   <SimplenotePassword > </SimplenotePassword>
+</preferences>
+<windows >
+<window ID="3358681308" Creator="lmorchard" type="outline" bounds="Rect[ 64 61 570 766]" x="0" y="0" scale="5" expanded="3358681308 3358681341 3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 " collapsed="3362634541 3358681335 3359203949 "  />
+<window ID="3362634541" Creator="lmorchard" type="explorer" bounds="Rect[ 238 75 1231 875]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 3362634541 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
+</windows>
+</tinderbox>

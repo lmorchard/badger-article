@@ -1,0 +1,91 @@
+/**
+ * article styles
+ */
+body {
+    font-family: georgia;
+    background: #999;
+    color: #111;
+}
+article {
+    margin: 0 auto;
+    padding: 1em 2em;
+    display: block;
+    width: 750px;
+    background: #fefefe;
+}
+article, footer {
+    margin: 0 auto;
+    padding: 1em 2em;
+    display: block;
+    width: 750px;
+    background: #fefefe;
+}
+footer {
+    color: #999;
+    font-style: italic;
+}
+footer p {
+    font-size: 0.9em;
+}
+article .author, article .meta {
+    color: #999;
+    font-style: italic;
+}
+article iframe.example {
+    width: 98%;
+    height: 300px;
+    border: 1px solid #666;
+}
+p>img {
+    display: block;
+    padding: 0; margin: 0;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    text-decoration: none;
+    color: #000;
+}
+h1 a:hover:after, h2 a:hover:after, h3 a:hover:after, h4 a:hover:after, h5 a:hover:after, h6 a:hover:after {
+    content: "\00a0#";
+    font-size: 0.75em;
+    color: purple;
+}
+article .toc {
+    border: 1px dotted #333;
+    padding: 1em; 
+}
+article .toc>h2 {
+    margin: 0; padding: 0;
+}
+article .toc>ul {
+    font-size: 0.9em;
+}
+article .toc>ul li {
+    margin: 0 0 0.5em 0.25em;
+    padding: 0;
+}
+article .toc>ul li>ul {
+    margin: 0.75em 0 0.75em 2em;
+    padding: 0 0 0 0;
+}
+
+article table {
+    font-size: 0.8em;
+}
+article table thead {
+}
+article table thead tr {
+}
+article table thead tr th {
+    text-align: left;
+    padding: 0 1em 0.5em 0.25em;
+    margin: 0.25em 1em 1em 0em;
+    border-bottom: 1px solid #333;
+}
+article table tbody {
+}
+article table tbody tr {
+}
+article table tbody tr td {
+    padding: 0.25em 1em 0.25em 0.25em;
+    margin: 0em 1em 0em 0em;
+}
