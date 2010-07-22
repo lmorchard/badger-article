@@ -408,7 +408,7 @@
 </attrib>
 </attrib>
 <attrib Name="User" parent="anything" editable="0" visibleInEditor="1" default="" >
-<attrib Name="id" parent="User" editable="1" visibleInEditor="1" type="2" sequential="1" default="108" >
+<attrib Name="id" parent="User" editable="1" visibleInEditor="1" type="2" sequential="1" default="109" >
 </attrib>
 </attrib>
 </attrib>
@@ -811,7 +811,7 @@ If you don&apos;t have someone&apos;s profile in Badger bookmarked, a glance at 
 <attribute name="Modified" >2010-07-22T12:53:00-04:00</attribute>
 <attribute name="Name" >Decision makers and laziness</attribute>
 <attribute name="ReadCount" >36</attribute>
-<attribute name="SelectionCount" >73</attribute>
+<attribute name="SelectionCount" >75</attribute>
 <attribute name="WindowPlace" >Rect[ 683 97 1326 797]</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -954,8 +954,8 @@ Badger is aimed at wrapping up community values in social objects and then letti
 <attribute name="Created" >2010-07-21T20:42:00-04:00</attribute>
 <attribute name="Modified" >2010-07-22T11:54:00-04:00</attribute>
 <attribute name="Name" >Summary</attribute>
-<attribute name="ReadCount" >25</attribute>
-<attribute name="SelectionCount" >38</attribute>
+<attribute name="ReadCount" >27</attribute>
+<attribute name="SelectionCount" >39</attribute>
 <attribute name="WindowPlace" >Rect[ 678 153 1358 765]</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -977,6 +977,35 @@ For me, personally, Badger is a notion to overcome my own shortcomings. I&apos;m
 \par
 It might sound a bit hokey and precious, and maybe there&apos;d be a danger of broken arms from all the patting ourselves on the backs\u8212 but I think the sentiments are genuine and the proper tools could tap into some surprising creativity in our community.\par
 \par
+}}
+</rtf>
+</item>
+<item ID="3362652301" Creator="lmorchard" >
+<attribute name="Created" >2010-07-22T14:05:00-04:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-07-22T14:06:00-04:00</attribute>
+<attribute name="Name" >References / Notes</attribute>
+<attribute name="ReadCount" >10</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >17</attribute>
+<attribute name="Ypos" >1</attribute>
+<attribute name="id" >109</attribute>
+<text >This article is mainly a brain dump about what I have in mind so far, but it&apos;s not wholly original or invented in a vacuum. As this develops, I want to start collecting some references to chase down:* [activitystrea.ms/Badge](http://wiki.activitystrea.ms/Badge) (via [@chrismessina](http://twitter.com/chrismessina/))</text>
+<styles >
+ <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fmodern\fcharset77 Monaco;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 This article is mainly a brain dump about what I have in mind so far, but it&apos;s not wholly original or invented in a vacuum. As this develops, I want to start collecting some references to chase down:\par
+\par
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * [activitystrea.ms/Badge](http://wiki.activitystrea.ms/Badge) (via [@chrismessina](http://twitter.com/chrismessina/))\par
 }}
 </rtf>
 </item>
@@ -1574,6 +1603,7 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362600161" destcreator="lmorchard"  />
 <link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362600761" destcreator="lmorchard"  />
 <link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362634541" destcreator="lmorchard"  />
+<link name="prototype" sourceid="3358681333" sourcecreator="lmorchard" sstart="-1" slen="0" style="0" destid="3362652301" destcreator="lmorchard"  />
 </links>
 <macros >
 <macro name="foo" >This is foo</macro>
@@ -1716,6 +1746,6 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
    <SimplenotePassword > </SimplenotePassword>
 </preferences>
 <windows >
-<window ID="3362597167" Creator="lmorchard" type="explorer" bounds="Rect[ 238 75 1196 877]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 3362634541 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
+<window ID="3362652301" Creator="lmorchard" type="explorer" bounds="Rect[ 238 75 1196 877]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 3362634541 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
 </windows>
 </tinderbox>
