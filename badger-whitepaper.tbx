@@ -503,15 +503,15 @@ This is easier said than done, but I have a hunch that something interesting can
 <attribute name="Created" >2010-07-22T09:09:00-04:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-07-22T14:42:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T14:44:00-04:00</attribute>
 <attribute name="Name" >What is Badger?</attribute>
-<attribute name="ReadCount" >25</attribute>
-<attribute name="SelectionCount" >69</attribute>
+<attribute name="ReadCount" >26</attribute>
+<attribute name="SelectionCount" >70</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >13</attribute>
 <attribute name="Ypos" >1</attribute>
 <attribute name="id" >108</attribute>
-<text >&lt;div style=&quot;float:right; font-size: 0.85em; margin: 0 0 1em 1em&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/sheepies/3695860386/&quot; title=&quot;Badger strip tail by Andreas-photography, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2546/3695860386_7d6d4b3653.jpg&quot; alt=&quot;Badger strip tail&quot;  style=&quot;width: 250px&quot; /&gt;&lt;/a&gt;&lt;p&gt;(no, not that kind of badger)&lt;/p&gt;&lt;/div&gt;Badger is [an Open Source social web application under development][badger] that aims to support these features:* Artifacts of gratitude—i.e. badges—as [social objects][socialobjs] to exchanged, displayed, and discussed.* Showcasing community values through the things we collectively celebrate.* Public recognition of community members and their valued contributions.* Transparent, open processes for participating in creating, awarding, discussing, and evaluating badges.* Collaboration on badge creation through a &quot;Help Wanted&quot; system that presents minimal overhead for coordination and offers a playful space for creative contribution.* Mobile device support for awarding badges on the spot and expressing public gratitude in person.* Rule-based awards triggered by conditions detected on the web in the tools we use for work every day.[socialobjs]: http://www.readwriteweb.com/archives/building_sites_around_social_objects_live_from_web.php[badger]: http://github.com/lmorchard/badger</text>
+<text >&lt;div style=&quot;float:right; font-size: 0.85em; margin: 0 0 1em 1em&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/sheepies/3695860386/&quot; title=&quot;Badger strip tail by Andreas-photography, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2546/3695860386_7d6d4b3653_m.jpg&quot; alt=&quot;Badger strip tail&quot;  style=&quot;width: 240px&quot; /&gt;&lt;/a&gt;&lt;p&gt;(no, not that kind of badger)&lt;/p&gt;&lt;/div&gt;Badger is [an Open Source social web application under development][badger] that aims to support these features:* Artifacts of gratitude—i.e. badges—as [social objects][socialobjs] to exchanged, displayed, and discussed.* Showcasing community values through the things we collectively celebrate.* Public recognition of community members and their valued contributions.* Transparent, open processes for participating in creating, awarding, discussing, and evaluating badges.* Collaboration on badge creation through a &quot;Help Wanted&quot; system that presents minimal overhead for coordination and offers a playful space for creative contribution.* Mobile device support for awarding badges on the spot and expressing public gratitude in person.* Rule-based awards triggered by conditions detected on the web in the tools we use for work every day.[socialobjs]: http://www.readwriteweb.com/archives/building_sites_around_social_objects_live_from_web.php[badger]: http://github.com/lmorchard/badger</text>
 <styles >
  <tstyle font="Menlo Regular" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -522,7 +522,7 @@ This is easier said than done, but I have a hunch that something interesting can
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 &lt;div style=&quot;float:right; font-size: 0.85em; margin: 0 0 1em 1em&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/sheepies/3695860386/&quot; title=&quot;Badger strip tail by Andreas-photography, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2546/3695860386_7d6d4b3653.jpg&quot; alt=&quot;Badger strip tail&quot;  style=&quot;width: 250px&quot; /&gt;&lt;/a&gt;&lt;p&gt;(no, not that kind of badger)&lt;/p&gt;&lt;/div&gt;\par
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 &lt;div style=&quot;float:right; font-size: 0.85em; margin: 0 0 1em 1em&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/sheepies/3695860386/&quot; title=&quot;Badger strip tail by Andreas-photography, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2546/3695860386_7d6d4b3653_m.jpg&quot; alt=&quot;Badger strip tail&quot;  style=&quot;width: 240px&quot; /&gt;&lt;/a&gt;&lt;p&gt;(no, not that kind of badger)&lt;/p&gt;&lt;/div&gt;\par
 \par
 Badger is [an Open Source social web application under development][badger] that aims to support these features:\par
 \par
@@ -548,8 +548,8 @@ Badger is [an Open Source social web application under development][badger] that
 <attribute name="Created" >2010-07-21T21:07:00-04:00</attribute>
 <attribute name="Modified" >2010-07-22T10:08:00-04:00</attribute>
 <attribute name="Name" >Why badges?</attribute>
-<attribute name="ReadCount" >69</attribute>
-<attribute name="SelectionCount" >152</attribute>
+<attribute name="ReadCount" >70</attribute>
+<attribute name="SelectionCount" >153</attribute>
 <attribute name="WindowPlace" >Rect[ 602 59 1186 687]</attribute>
 <attribute name="Xpos" >6.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -1736,6 +1736,6 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
    <SimplenotePassword > </SimplenotePassword>
 </preferences>
 <windows >
-<window type="explorer" bounds="Rect[ 238 75 1196 877]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
+<window ID="3362634541" Creator="lmorchard" type="explorer" bounds="Rect[ 238 75 1196 877]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
 </windows>
 </tinderbox>
