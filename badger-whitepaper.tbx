@@ -644,8 +644,8 @@ But, if I saw a few people claim some highly-applauded and coveted \{Spider,Trac
 <attribute name="Created" >2010-07-21T20:23:00-04:00</attribute>
 <attribute name="Modified" >2010-07-22T10:10:00-04:00</attribute>
 <attribute name="Name" >Just what is it you do here, anyway?</attribute>
-<attribute name="ReadCount" >59</attribute>
-<attribute name="SelectionCount" >54</attribute>
+<attribute name="ReadCount" >60</attribute>
+<attribute name="SelectionCount" >55</attribute>
 <attribute name="WindowPlace" >Rect[ 673 264 1284 818]</attribute>
 <attribute name="Xpos" >2</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -721,15 +721,15 @@ Badges should be subject to applause, discussion, and improvement with distribut
 </item>
 <item ID="3362597166" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T20:38:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T11:37:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T12:00:00-04:00</attribute>
 <attribute name="Name" >Help Wanted</attribute>
-<attribute name="ReadCount" >143</attribute>
-<attribute name="SelectionCount" >115</attribute>
+<attribute name="ReadCount" >144</attribute>
+<attribute name="SelectionCount" >121</attribute>
 <attribute name="WindowPlace" >Rect[ 699 86 1289 725]</attribute>
 <attribute name="Xpos" >3</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >92</attribute>
-<text >[&lt;img src=&quot;http://www.artzilla.org/wp-content/themes/artzilla/images/bg/zilla.png&quot; style=&quot;float:left; width: 18%; margin: 0 1em 1em 0&quot; /&gt;][artzilla][artzilla]: http://artzilla.org/At the summit, Guillermo Movia gave a lightning talk about [web stencils and street art applied to the web][art] and [Artzilla.org][artzilla]. That excited me about the creativity in our community. And then there&apos;s the participatory success of Personas and the flood of creative personalization received by that initiative.[art]: http://twitter.com/toniher/status/18056580738[artzilla]: http://artzilla.org/Mozilla has a long-running tradition of producing fun things to celebrate the community and its accomplishments. We have swag closets full of t-shirts, posters, stickers, and toys—both at the office and at home.When I got home from the summit, I thought: Wouldn&apos;t it be cool if we could keep that going in a distributed way? What if there was a way to get people together to craft virtual artifacts of gratitude for each other—i.e. badges—that were as playful and desirable as the physical swag we give away all the time?To make it work, the system has to do the heavy lifting to facilitate collaboration. Creating a badge shouldn&apos;t demand a conference call or meeting of any kind.So, the idea I had was a kind of &quot;Help Wanted&quot; system:* Badger can offer a &quot;Help Wanted&quot; search that cuts across aspects of badges associated with creative skill sets.* Have an idea for a badge? Create it and fill in as many details as you can, leave the rest marked &quot;Help Wanted&quot;, maybe with notes about your intentions.* Are you a designer? Can you make illustrations? Look for badges with artwork marked &quot;Help Wanted&quot; and submit contributions.* Artists could also contribute to a general library of clip art and stencils from which others could compose badge imagery as collages* Are you a writer? Look for badges with descriptions marked &quot;Help Wanted&quot; and contribute.* Are you a localizer? Look for badges marked &quot;Help Wanted&quot; in your native locales and offer localizationsIdeally, with some editorial controls put into the hands of individual badge creators—as opposed to being driven entirely by top-level moderators—this could result in a decentralized effort to create and improve badges with no need for synch-ups and minimal overhead to coordinate everyone.If the collaboration doesn&apos;t feel like work, we might just have some fun with it. And, of course, there will be badges for helping make badges.</text>
+<text >[&lt;img src=&quot;http://www.artzilla.org/wp-content/themes/artzilla/images/bg/zilla.png&quot; style=&quot;float:left; width: 18%; margin: 0 1em 1em 0&quot; /&gt;][artzilla][artzilla]: http://artzilla.org/At the summit, Guillermo Movia gave a lightning talk about [web stencils and street art applied to the web][art] and [Artzilla.org][artzilla]. And then there&apos;s the participatory success of Personas and the flood of creative personalization received by that initiative. This all excited me about the creativity in our community.[art]: http://twitter.com/toniher/status/18056580738[artzilla]: http://artzilla.org/Now, consider that Mozilla has a long-running tradition of producing fun things to celebrate the community and its accomplishments. We have swag closets full of t-shirts, posters, stickers, and toys—both at the office and at home.When I got home from the summit, I thought: Wouldn&apos;t it be cool if we could keep that going in a distributed way? What if there was a way to get people together to craft virtual artifacts of gratitude for each other—i.e. badges—that were as playful and desirable as the physical swag we give away all the time?To make it work, the system has to do the heavy lifting to facilitate collaboration. Creating a badge shouldn&apos;t demand a conference call or meeting of any kind.So, the idea I had was a kind of &quot;Help Wanted&quot; system:* Badger can offer a &quot;Help Wanted&quot; search that cuts across aspects of badges associated with creative skill sets.* Have an idea for a badge? Create it and fill in as many details as you can, leave the rest marked &quot;Help Wanted&quot;, maybe with notes about your intentions.* Are you a designer? Can you make illustrations? Look for badges with artwork marked &quot;Help Wanted&quot; and submit contributions.* Artists could also contribute to a general library of clip art and stencils from which others could compose badge imagery as collages* Are you a writer? Look for badges with descriptions marked &quot;Help Wanted&quot; and contribute.* Are you a localizer? Look for badges marked &quot;Help Wanted&quot; in your native locales and offer localizationsIdeally, with some editorial controls put into the hands of individual badge creators—as opposed to being driven entirely by top-level moderators—this could result in a decentralized effort to create and improve badges with no need for synch-ups and minimal overhead to coordinate everyone.If the collaboration doesn&apos;t feel like work, we might just have some fun with it. And, of course, there will be badges for helping make badges.</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -743,12 +743,12 @@ Badges should be subject to applause, discussion, and improvement with distribut
 {\pard\plain\uc0\f0\fs24\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [&lt;img src=&quot;http://www.artzilla.org/wp-content/themes/artzilla/images/bg/zilla.png&quot; style=&quot;float:left; width: 18%; margin: 0 1em 1em 0&quot; /&gt;][artzilla]\par
 [artzilla]: http://artzilla.org/\par
 \par
-At the summit, Guillermo Movia gave a lightning talk about [web stencils and street art applied to the web][art] and [Artzilla.org][artzilla]. That excited me about the creativity in our community. And then there&apos;s the participatory success of Personas and the flood of creative personalization received by that initiative.\par
+At the summit, Guillermo Movia gave a lightning talk about [web stencils and street art applied to the web][art] and [Artzilla.org][artzilla]. And then there&apos;s the participatory success of Personas and the flood of creative personalization received by that initiative. This all excited me about the creativity in our community.\par
 \par
 [art]: http://twitter.com/toniher/status/18056580738\par
 [artzilla]: http://artzilla.org/\par
 \par
-Mozilla has a long-running tradition of producing fun things to celebrate the community and its accomplishments. We have swag closets full of t-shirts, posters, stickers, and toys\u8212 both at the office and at home.\par
+Now, consider that Mozilla has a long-running tradition of producing fun things to celebrate the community and its accomplishments. We have swag closets full of t-shirts, posters, stickers, and toys\u8212 both at the office and at home.\par
 \par
 When I got home from the summit, I thought: Wouldn&apos;t it be cool if we could keep that going in a distributed way? What if there was a way to get people together to craft virtual artifacts of gratitude for each other\u8212 i.e. badges\u8212 that were as playful and desirable as the physical swag we give away all the time?\par
 \par
@@ -854,15 +854,15 @@ On the other hand, this could be an area where &quot;Help Wanted&quot; can conne
 </item>
 <item ID="3362599201" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T23:20:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T11:36:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T12:03:00-04:00</attribute>
 <attribute name="Name" >Meta-Badges</attribute>
-<attribute name="ReadCount" >6</attribute>
-<attribute name="SelectionCount" >38</attribute>
+<attribute name="ReadCount" >7</attribute>
+<attribute name="SelectionCount" >41</attribute>
 <attribute name="WindowPlace" >Rect[ 639 114 1325 772]</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >105</attribute>
-<text >Some badges could be awarded for collecting a set of other badges. Let&apos;s say you get a unique badge for every [Test Day][testday] attended. After 10 of these, you get a &quot;Test Day Hero&quot; badge. The same could apply to questions answered on [support.mozilla.org][support], or anything that helps the community over time.[&lt;img src=&quot;http://www.heroesnomore.com/img/25uldglory.png&quot; style=&quot;width: 75%; margin: 1em auto 1em auto; display: block&quot; /&gt;](http://www.heroesnomore.com/)As pictured above, this is a concept familiar to World of Warcraft players. In many cases, players stick with the game just to complete these overarching goals, whether or not they have a direct bearing on the central story or progression through the game. (e.g. There are meta-badges in WoW for collecting pets.) This makes meta-badges them an interesting way to reward complex and long-term activities.[support]: http://support.mozilla.org/[testday]: http://quality.mozilla.org/</text>
+<text >Some badges could be awarded for collecting a set of other badges. Let&apos;s say you get a unique badge for every [Test Day][testday] attended. After 10 of these, you get a &quot;Test Day Hero&quot; badge. The same could apply to questions answered on [support.mozilla.org][support], or anything that helps the community over time.[&lt;img src=&quot;http://www.heroesnomore.com/img/25uldglory.png&quot; style=&quot;width: 75%; margin: 1em auto 1em auto; display: block&quot; /&gt;](http://www.heroesnomore.com/)As pictured above, this is a concept familiar to World of Warcraft players. In many cases, players stick with the game just to complete these overarching goals, whether or not they have a direct bearing on the central story or progression through the game. (e.g. [There are meta-badges in WoW for collecting pets][petcollectors].) This makes meta-badges them an interesting way to reward complex and long-term activities.[petcollectors]: http://www.wow.com/2009/01/10/lil-game-hunter-achievement-now-set-to-75-pets/[support]: http://support.mozilla.org/[testday]: http://quality.mozilla.org/</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -879,23 +879,24 @@ Let&apos;s say you get a unique badge for every [Test Day][testday] attended. Af
 \par
 [&lt;img src=&quot;http://www.heroesnomore.com/img/25uldglory.png&quot; style=&quot;width: 75%; margin: 1em auto 1em auto; display: block&quot; /&gt;](http://www.heroesnomore.com/)\par
 \par
-As pictured above, this is a concept familiar to World of Warcraft players. In many cases, players stick with the game just to complete these overarching goals, whether or not they have a direct bearing on the central story or progression through the game. (e.g. There are meta-badges in WoW for collecting pets.) This makes meta-badges them an interesting way to reward complex and long-term activities.\par
+As pictured above, this is a concept familiar to World of Warcraft players. In many cases, players stick with the game just to complete these overarching goals, whether or not they have a direct bearing on the central story or progression through the game. (e.g. [There are meta-badges in WoW for collecting pets][petcollectors].) This makes meta-badges them an interesting way to reward complex and long-term activities.\par
 \par
+[petcollectors]: http://www.wow.com/2009/01/10/lil-game-hunter-achievement-now-set-to-75-pets/\par
 [support]: http://support.mozilla.org/\par
 [testday]: http://quality.mozilla.org/}}
 </rtf>
 </item>
 <item ID="3362600761" Creator="lmorchard" >
 <attribute name="Created" >2010-07-21T23:46:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T11:44:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T12:04:00-04:00</attribute>
 <attribute name="Name" >Open Source, Open Web</attribute>
-<attribute name="ReadCount" >4</attribute>
-<attribute name="SelectionCount" >27</attribute>
+<attribute name="ReadCount" >5</attribute>
+<attribute name="SelectionCount" >34</attribute>
 <attribute name="WindowPlace" >Rect[ 616 181 1223 763]</attribute>
 <attribute name="Xpos" >4.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >107</attribute>
-<text >[Badger is Open Source][github]. If other communities want to host their own Badger and build badges as social objects, they can. I&apos;ll welcome patches and pull requests to improve the code.And, beyond that, I want Badger to expose open APIs that welcome mashups, hacks, and external apps. A desktop notifier that announces newly awarded badges with fanfare would be awesome. Widgets for displaying badge collections on personal sites would be great.There should be plenty of room here for Badger to be a part of the Open Web. And, perhaps more importantly, Badger should rely on other services as much as possible so that it remains focused. This project doesn&apos;t aim to replace Facebook or Twitter or Bugzilla or wikis—it aims only to augment those services with artifacts of gratitude as social objects.[github]: http://github.com/lmorchard/badger</text>
+<text >[Badger is Open Source][github]. It almost goes without saying at Mozilla—but if another community wants to host their own Badger, they can. I&apos;ll welcome patches and pull requests to improve the code.And, beyond that, I want Badger to expose open APIs that welcome mashups, hacks, and external apps. A desktop notifier that announces newly awarded badges with fanfare would be awesome. Widgets for displaying badge collections on personal sites would be great.There should be plenty of room here for Badger to be a part of the Open Web. And, perhaps more importantly, Badger should rely on other services as much as possible so that it remains focused. This project doesn&apos;t aim to replace Facebook or Twitter or Bugzilla or wikis—it aims only to augment those services with artifacts of gratitude as social objects.[github]: http://github.com/lmorchard/badger</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -906,7 +907,7 @@ As pictured above, this is a concept familiar to World of Warcraft players. In m
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [Badger is Open Source][github]. If other communities want to host their own Badger and build badges as social objects, they can. I&apos;ll welcome patches and pull requests to improve the code.\par
+{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 [Badger is Open Source][github]. It almost goes without saying at Mozilla\u8212 but if another community wants to host their own Badger, they can. I&apos;ll welcome patches and pull requests to improve the code.\par
 \par
 And, beyond that, I want Badger to expose open APIs that welcome mashups, hacks, and external apps. A desktop notifier that announces newly awarded badges with fanfare would be awesome. Widgets for displaying badge collections on personal sites would be great.\par
 \par
@@ -954,7 +955,7 @@ Badger is aimed at wrapping up community values in social objects and then letti
 <attribute name="Modified" >2010-07-22T11:54:00-04:00</attribute>
 <attribute name="Name" >Summary</attribute>
 <attribute name="ReadCount" >25</attribute>
-<attribute name="SelectionCount" >37</attribute>
+<attribute name="SelectionCount" >38</attribute>
 <attribute name="WindowPlace" >Rect[ 678 153 1358 765]</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -1716,6 +1717,6 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </preferences>
 <windows >
 <window ID="3358681308" Creator="lmorchard" type="outline" bounds="Rect[ 64 61 570 766]" x="0" y="0" scale="5" expanded="3358681308 3358681341 3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 " collapsed="3362634541 3358681335 3359203949 "  />
-<window ID="3362597169" Creator="lmorchard" type="explorer" bounds="Rect[ 238 75 1196 877]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 3362634541 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
+<window ID="3362600761" Creator="lmorchard" type="explorer" bounds="Rect[ 238 75 1196 877]" x="0" y="0" scale="5" split="300" expanded="3358681308 3358681341 3362634541 " collapsed="3362597162 3362597164 3362597170 3362597172 3358681330 3358681331 3358681335 3359203949 "  />
 </windows>
 </tinderbox>
