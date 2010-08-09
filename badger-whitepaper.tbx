@@ -449,21 +449,21 @@
 <linkType name="update" visible="1" showLabel="1" color="#000000" colorString="#000000" style="0"  />
 </linkTypes>
 <item ID="3358681308" Creator="lmorchard" >
-<attribute name="Created" >2010-06-06T14:32:00-04:00</attribute>
-<attribute name="Modified" >2010-06-06T14:32:00-04:00</attribute>
+<attribute name="Created" >2010-06-06T14:32:00-07:00</attribute>
+<attribute name="Modified" >2010-06-06T14:32:00-07:00</attribute>
 <attribute name="Name" >badger-whitepaper</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
 <item ID="3358681341" Creator="lmorchard" >
 <attribute name="Address" >http://lmorchard.com/</attribute>
-<attribute name="Created" >2010-06-04T15:19:00-04:00</attribute>
+<attribute name="Created" >2010-06-04T15:19:00-07:00</attribute>
 <attribute name="Email" >l.m.orchard@pobox.com</attribute>
 <attribute name="FullName" >l.m.orchard</attribute>
 <attribute name="HTMLExportChildren" >false</attribute>
 <attribute name="HTMLExportFileName" >index</attribute>
 <attribute name="HTMLMarkupText" >false</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-07-22T11:00:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T11:00:00-07:00</attribute>
 <attribute name="Name" >Why does Mozilla need a Badger?</attribute>
 <attribute name="ReadCount" >410</attribute>
 <attribute name="SelectionCount" >373</attribute>
@@ -500,10 +500,10 @@ This is easier said than done, but I have a hunch that something interesting can
 [idea]: http://twitter.com/lmorchard/status/18047694152}}
 </rtf>
 <item ID="3362634541" Creator="lmorchard" >
-<attribute name="Created" >2010-07-22T09:09:00-04:00</attribute>
+<attribute name="Created" >2010-07-22T09:09:00-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-07-22T14:44:00-04:00</attribute>
+<attribute name="Modified" >2010-07-22T14:44:00-07:00</attribute>
 <attribute name="Name" >What is Badger?</attribute>
 <attribute name="ReadCount" >29</attribute>
 <attribute name="SelectionCount" >73</attribute>
@@ -545,8 +545,8 @@ Badger is [an Open Source social web application under development][badger] that
 </rtf>
 </item>
 <item ID="3362591221" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T21:07:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T10:08:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T21:07:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T10:08:00-07:00</attribute>
 <attribute name="Name" >Why badges?</attribute>
 <attribute name="ReadCount" >70</attribute>
 <attribute name="SelectionCount" >153</attribute>
@@ -580,8 +580,8 @@ And beyond what they assert, [badges are social objects][socialobjects]. People 
 </rtf>
 </item>
 <item ID="3362597162" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T22:19:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T10:09:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T22:19:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T10:09:00-07:00</attribute>
 <attribute name="Name" >What do we value?</attribute>
 <attribute name="ReadCount" >38</attribute>
 <attribute name="SelectionCount" >91</attribute>
@@ -619,10 +619,10 @@ But, if I saw a few people claim some highly-applauded and coveted \{Spider,Trac
 [roots]: http://blog.lizardwrangler.com/wp-content/uploads/2008/07/mozillatree.jpg}}
 </rtf>
 <item ID="3362597163" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T22:45:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T22:45:00-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-07-21T22:45:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T22:45:00-07:00</attribute>
 <attribute name="Name" >Monkey image here? {trace,jager,spider}</attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
@@ -632,8 +632,8 @@ But, if I saw a few people claim some highly-applauded and coveted \{Spider,Trac
 </item>
 </item>
 <item ID="3362597164" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:23:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T10:10:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:23:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T10:10:00-07:00</attribute>
 <attribute name="Name" >Just what is it you do here, anyway?</attribute>
 <attribute name="ReadCount" >60</attribute>
 <attribute name="SelectionCount" >55</attribute>
@@ -665,9 +665,9 @@ More than titles or job descriptions, a badge collection could help explain just
 Also, consider that badges should be localizable\u8212 this could help bridge the language barrier in answering the question &quot;So, what do you do?&quot; when we meet online and face-to-face.}}
 </rtf>
 <item ID="3362597165" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T22:45:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T22:45:00-07:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-07-21T22:45:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T22:45:00-07:00</attribute>
 <attribute name="Name" >Office space image?</attribute>
 <attribute name="SelectionCount" >2</attribute>
 <attribute name="Xpos" >0</attribute>
@@ -676,8 +676,8 @@ Also, consider that badges should be localizable\u8212 this could help bridge th
 </item>
 </item>
 <item ID="3362600161" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T23:36:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T11:32:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T23:36:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T11:32:00-07:00</attribute>
 <attribute name="Name" >Talk amongst yourselves</attribute>
 <attribute name="ReadCount" >27</attribute>
 <attribute name="SelectionCount" >28</attribute>
@@ -711,8 +711,8 @@ Badges should be subject to applause, discussion, and improvement with distribut
 </rtf>
 </item>
 <item ID="3362597166" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:38:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T12:00:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:38:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T12:00:00-07:00</attribute>
 <attribute name="Name" >Help Wanted</attribute>
 <attribute name="ReadCount" >144</attribute>
 <attribute name="SelectionCount" >121</attribute>
@@ -762,8 +762,8 @@ And, of course, there will be badges for helping make badges.}}
 </rtf>
 </item>
 <item ID="3362597168" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T22:43:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T11:20:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T22:43:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T11:20:00-07:00</attribute>
 <attribute name="Name" >On the spot (or, mobile support)</attribute>
 <attribute name="ReadCount" >47</attribute>
 <attribute name="SelectionCount" >74</attribute>
@@ -798,8 +798,8 @@ If you don&apos;t have someone&apos;s profile in Badger bookmarked, a glance at 
 </rtf>
 </item>
 <item ID="3362597167" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:16:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T12:53:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:16:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T12:53:00-07:00</attribute>
 <attribute name="Name" >Decision makers and laziness</attribute>
 <attribute name="ReadCount" >36</attribute>
 <attribute name="SelectionCount" >75</attribute>
@@ -844,8 +844,8 @@ On the other hand, this could be an area where &quot;Help Wanted&quot; can conne
 </rtf>
 </item>
 <item ID="3362599201" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T23:20:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T12:03:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T23:20:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T12:03:00-07:00</attribute>
 <attribute name="Name" >Meta-Badges</attribute>
 <attribute name="ReadCount" >7</attribute>
 <attribute name="SelectionCount" >41</attribute>
@@ -878,8 +878,8 @@ As pictured above, this is a concept familiar to World of Warcraft players. In m
 </rtf>
 </item>
 <item ID="3362600761" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T23:46:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T12:04:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T23:46:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T12:04:00-07:00</attribute>
 <attribute name="Name" >Open Source, Open Web</attribute>
 <attribute name="ReadCount" >5</attribute>
 <attribute name="SelectionCount" >35</attribute>
@@ -909,8 +909,8 @@ There should be plenty of room here for Badger to be a part of the Open Web. And
 </rtf>
 </item>
 <item ID="3362598001" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T23:00:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T11:46:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T23:00:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T11:46:00-07:00</attribute>
 <attribute name="Name" >The Next Million Mozillians</attribute>
 <attribute name="ReadCount" >25</attribute>
 <attribute name="SelectionCount" >21</attribute>
@@ -942,8 +942,8 @@ Badger is aimed at wrapping up community values in social objects and then letti
 </rtf>
 </item>
 <item ID="3362597169" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:42:00-04:00</attribute>
-<attribute name="Modified" >2010-07-22T11:54:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:42:00-07:00</attribute>
+<attribute name="Modified" >2010-07-22T11:54:00-07:00</attribute>
 <attribute name="Name" >Summary</attribute>
 <attribute name="ReadCount" >27</attribute>
 <attribute name="SelectionCount" >39</attribute>
@@ -972,18 +972,18 @@ It might sound a bit hokey and precious, and maybe there&apos;d be a danger of b
 </rtf>
 </item>
 <item ID="3362652301" Creator="lmorchard" >
-<attribute name="Created" >2010-07-22T14:05:00-04:00</attribute>
+<attribute name="Created" >2010-07-22T14:05:00-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-08-03T15:48:00-04:00</attribute>
+<attribute name="Modified" >2010-08-09T07:39:00-07:00</attribute>
 <attribute name="Name" >References / Notes</attribute>
-<attribute name="ReadCount" >11</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="ReadCount" >19</attribute>
+<attribute name="SelectionCount" >14</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >17</attribute>
 <attribute name="Ypos" >1</attribute>
 <attribute name="id" >109</attribute>
-<text >This article is mainly a brain dump about what I have in mind so far, but it&apos;s not wholly original or invented in a vacuum. As this develops, I want to start collecting some references to chase down:* [http://activitystrea.ms/Badge](http://wiki.activitystrea.ms/Badge) (via [@chrismessina](http://twitter.com/chrismessina/))* [http://www.slideshare.net/soldierant/designing-your-reputation-system](http://www.slideshare.net/soldierant/designing-your-reputation-system)</text>
+<text >This article is mainly a brain dump about what I have in mind so far, but it&apos;s not wholly original or invented in a vacuum. As this develops, I want to start collecting some references to chase down:* &lt;http://en.wikipedia.org/wiki/Wikipedia:Barnstars&gt;* &lt;http://activitystrea.ms/Badge&gt; (via [@chrismessina](http://twitter.com/chrismessina/))* &lt;http://www.slideshare.net/soldierant/designing-your-reputation-system&gt;</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -996,17 +996,19 @@ It might sound a bit hokey and precious, and maybe there&apos;d be a danger of b
 \deftab720
 {\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 This article is mainly a brain dump about what I have in mind so far, but it&apos;s not wholly original or invented in a vacuum. As this develops, I want to start collecting some references to chase down:\par
 \par
-}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * [http://activitystrea.ms/Badge](http://wiki.activitystrea.ms/Badge) (via [@chrismessina](http://twitter.com/chrismessina/))\par
-* [http://www.slideshare.net/soldierant/designing-your-reputation-system](http://www.slideshare.net/soldierant/designing-your-reputation-system)}}
+}{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * &lt;http://en.wikipedia.org/wiki/Wikipedia:Barnstars&gt;\par
+* &lt;http://activitystrea.ms/Badge&gt; (via [@chrismessina](http://twitter.com/chrismessina/))\par
+* &lt;http://www.slideshare.net/soldierant/designing-your-reputation-system&gt;\par
+}}
 </rtf>
 </item>
 </item>
 <item ID="3362597170" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:13:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:13:00-07:00</attribute>
 <attribute name="HTMLDontExport" >true</attribute>
 <attribute name="HTMLExportChildren" >false</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-07-21T20:13:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T20:13:00-07:00</attribute>
 <attribute name="Name" >Notes</attribute>
 <attribute name="OnAdd" >$Prototype=&quot;*notes&quot;</attribute>
 <attribute name="SelectionCount" >12</attribute>
@@ -1015,8 +1017,8 @@ It might sound a bit hokey and precious, and maybe there&apos;d be a danger of b
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >75</attribute>
 <item ID="3362597171" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:26:00-04:00</attribute>
-<attribute name="Modified" >2010-07-21T20:27:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:26:00-07:00</attribute>
+<attribute name="Modified" >2010-07-21T20:27:00-07:00</attribute>
 <attribute name="Name" >The Mozilla Mission</attribute>
 <attribute name="ReadCount" >30</attribute>
 <attribute name="SelectionCount" >6</attribute>
@@ -1044,8 +1046,8 @@ Building a better Internet is an ambitious goal, but we believe that it is possi
 </rtf>
 </item>
 <item ID="3362597172" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:30:00-04:00</attribute>
-<attribute name="Modified" >2010-07-21T20:31:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:30:00-07:00</attribute>
+<attribute name="Modified" >2010-07-21T20:31:00-07:00</attribute>
 <attribute name="Name" >The Mozilla Manifesto</attribute>
 <attribute name="ReadCount" >20</attribute>
 <attribute name="SelectionCount" >2</attribute>
@@ -1116,9 +1118,9 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 }}
 </rtf>
 <item ID="3362597173" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:29:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:29:00-07:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-07-21T20:29:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T20:29:00-07:00</attribute>
 <attribute name="Name" >&quot;3. The Internet should enrich the lives of individual human beings.&quot;</attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >0.5</attribute>
@@ -1126,8 +1128,8 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="id" >89</attribute>
 </item>
 <item ID="3362597174" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:27:00-04:00</attribute>
-<attribute name="Modified" >2010-07-21T20:27:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:27:00-07:00</attribute>
+<attribute name="Modified" >2010-07-21T20:27:00-07:00</attribute>
 <attribute name="Name" >&quot;5. Individuals must have the ability to shape their own experiences on the Internet.&quot;</attribute>
 <attribute name="SelectionCount" >13</attribute>
 <attribute name="Xpos" >1</attribute>
@@ -1135,8 +1137,8 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="id" >86</attribute>
 </item>
 <item ID="3362597175" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:28:00-04:00</attribute>
-<attribute name="Modified" >2010-07-21T20:28:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:28:00-07:00</attribute>
+<attribute name="Modified" >2010-07-21T20:28:00-07:00</attribute>
 <attribute name="Name" >&quot;6. The effectiveness of the Internet as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.&quot;</attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >1.5</attribute>
@@ -1144,8 +1146,8 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="id" >87</attribute>
 </item>
 <item ID="3362597176" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:28:00-04:00</attribute>
-<attribute name="Modified" >2010-07-21T20:28:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:28:00-07:00</attribute>
+<attribute name="Modified" >2010-07-21T20:28:00-07:00</attribute>
 <attribute name="Name" >&quot;8. Transparent community-based processes promote participation, accountability, and trust.&quot;</attribute>
 <attribute name="SelectionCount" >13</attribute>
 <attribute name="Xpos" >0.5</attribute>
@@ -1154,8 +1156,8 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </item>
 </item>
 <item ID="3362597177" Creator="lmorchard" >
-<attribute name="Created" >2010-07-21T20:18:00-04:00</attribute>
-<attribute name="Modified" >2010-07-21T20:18:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:18:00-07:00</attribute>
+<attribute name="Modified" >2010-07-21T20:18:00-07:00</attribute>
 <attribute name="Name" >Mozilla Pulse</attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >3.5</attribute>
@@ -1164,12 +1166,12 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </item>
 </item>
 <item ID="3358681330" Creator="lmorchard" >
-<attribute name="Created" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="Created" >2010-06-04T23:01:00-07:00</attribute>
 <attribute name="HTMLDontExport" >true</attribute>
 <attribute name="HTMLExportChildren" >false</attribute>
 <attribute name="HTMLMarkupText" >false</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="Modified" >2010-06-04T23:01:00-07:00</attribute>
 <attribute name="Name" >Internals</attribute>
 <attribute name="OnAdd" >if ($Prototype=&quot;&quot;) { $Prototype=&quot;*folder&quot; }</attribute>
 <attribute name="ReadCount" >7</attribute>
@@ -1180,9 +1182,9 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="id" >12</attribute>
 <item ID="3358681331" Creator="lmorchard" >
 <attribute name="Badge" >folder</attribute>
-<attribute name="Created" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="Created" >2010-06-04T23:01:00-07:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="Modified" >2010-06-04T23:01:00-07:00</attribute>
 <attribute name="Name" >Prototypes</attribute>
 <attribute name="OnAdd" >$IsPrototype=True</attribute>
 <attribute name="ReadCount" >4</attribute>
@@ -1192,7 +1194,7 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="id" >13</attribute>
 <item ID="3358681332" Creator="lmorchard" >
 <attribute name="Badge" >web</attribute>
-<attribute name="Created" >2010-06-04T23:03:00-04:00</attribute>
+<attribute name="Created" >2010-06-04T23:03:00-07:00</attribute>
 <attribute name="HTMLExportTemplate" >/Internals/Templates/article.html</attribute>
 <attribute name="HTMLFirstParagraphEnd" ></attribute>
 <attribute name="HTMLFirstParagraphStart" ></attribute>
@@ -1202,7 +1204,7 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="HTMLParagraphStart" ></attribute>
 <attribute name="IsPrototype" >true</attribute>
 <attribute name="KeyAttributes" >FullName;Email;Address;Twitter;Organization</attribute>
-<attribute name="Modified" >2010-06-04T23:03:00-04:00</attribute>
+<attribute name="Modified" >2010-06-04T23:03:00-07:00</attribute>
 <attribute name="Name" >*article</attribute>
 <attribute name="OnAdd" >if ($Prototype=&quot;&quot;) { $Prototype=&quot;*section&quot; } </attribute>
 <attribute name="ReadCount" >7</attribute>
@@ -1214,7 +1216,7 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </item>
 <item ID="3358681333" Creator="lmorchard" >
 <attribute name="Badge" >arrow right</attribute>
-<attribute name="Created" >2010-06-04T23:03:00-04:00</attribute>
+<attribute name="Created" >2010-06-04T23:03:00-07:00</attribute>
 <attribute name="HTMLExportTemplate" >/Internals/Templates/section.html</attribute>
 <attribute name="HTMLFirstParagraphEnd" ></attribute>
 <attribute name="HTMLFirstParagraphStart" ></attribute>
@@ -1223,7 +1225,7 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="HTMLParagraphEnd" ></attribute>
 <attribute name="HTMLParagraphStart" ></attribute>
 <attribute name="IsPrototype" >true</attribute>
-<attribute name="Modified" >2010-06-17T23:49:00-04:00</attribute>
+<attribute name="Modified" >2010-06-17T23:49:00-07:00</attribute>
 <attribute name="Name" >*section</attribute>
 <attribute name="OnAdd" >if ($Prototype=&quot;&quot;) { $Prototype=&quot;*section&quot; }</attribute>
 <attribute name="ReadCount" >10</attribute>
@@ -1236,7 +1238,7 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="AutomaticIndent" >false</attribute>
 <attribute name="Badge" >tools</attribute>
 <attribute name="Color" >dark black</attribute>
-<attribute name="Created" >2010-06-07T23:02:00-04:00</attribute>
+<attribute name="Created" >2010-06-07T23:02:00-07:00</attribute>
 <attribute name="HTMLDontExport" >true</attribute>
 <attribute name="HTMLFirstParagraphEnd" ></attribute>
 <attribute name="HTMLFirstParagraphStart" ></attribute>
@@ -1246,7 +1248,7 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="HTMLParagraphStart" ></attribute>
 <attribute name="IsPrototype" >true</attribute>
 <attribute name="IsTemplate" >true</attribute>
-<attribute name="Modified" >2010-06-07T23:02:00-04:00</attribute>
+<attribute name="Modified" >2010-06-07T23:02:00-07:00</attribute>
 <attribute name="Name" >*template</attribute>
 <attribute name="ParagraphSpacing" >0</attribute>
 <attribute name="ReadCount" >5</attribute>
@@ -1258,9 +1260,9 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </item>
 <item ID="3359203948" Creator="lmorchard" >
 <attribute name="Badge" >folder</attribute>
-<attribute name="Created" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="Created" >2010-06-12T16:12:00-07:00</attribute>
 <attribute name="IsPrototype" >true</attribute>
-<attribute name="Modified" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="Modified" >2010-06-12T16:12:00-07:00</attribute>
 <attribute name="Name" >*folder</attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >20.5</attribute>
@@ -1269,9 +1271,9 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </item>
 <item ID="3359203951" Creator="lmorchard" >
 <attribute name="Badge" >application</attribute>
-<attribute name="Created" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="Created" >2010-06-12T16:12:00-07:00</attribute>
 <attribute name="IsPrototype" >true</attribute>
-<attribute name="Modified" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="Modified" >2010-06-12T16:12:00-07:00</attribute>
 <attribute name="Name" >*script</attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >24</attribute>
@@ -1280,11 +1282,11 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </item>
 <item ID="3362597178" Creator="lmorchard" >
 <attribute name="Badge" >memo</attribute>
-<attribute name="Created" >2010-07-21T20:24:00-04:00</attribute>
+<attribute name="Created" >2010-07-21T20:24:00-07:00</attribute>
 <attribute name="HTMLDontExport" >true</attribute>
 <attribute name="HTMLExportChildren" >false</attribute>
 <attribute name="IsPrototype" >true</attribute>
-<attribute name="Modified" >2010-07-21T20:24:00-04:00</attribute>
+<attribute name="Modified" >2010-07-21T20:24:00-07:00</attribute>
 <attribute name="Name" >*notes</attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >6.5</attribute>
@@ -1294,8 +1296,8 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </item>
 <item ID="3358681335" Creator="lmorchard" >
 <attribute name="Badge" >folder</attribute>
-<attribute name="Created" >2010-06-04T23:01:00-04:00</attribute>
-<attribute name="Modified" >2010-06-04T23:01:00-04:00</attribute>
+<attribute name="Created" >2010-06-04T23:01:00-07:00</attribute>
+<attribute name="Modified" >2010-06-04T23:01:00-07:00</attribute>
 <attribute name="Name" >Templates</attribute>
 <attribute name="ReadCount" >2</attribute>
 <attribute name="SelectionCount" >13</attribute>
@@ -1303,9 +1305,9 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >17</attribute>
 <item ID="3358681336" Creator="lmorchard" >
-<attribute name="Created" >2010-06-04T23:15:00-04:00</attribute>
+<attribute name="Created" >2010-06-04T23:15:00-07:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-06-12T17:53:00-04:00</attribute>
+<attribute name="Modified" >2010-06-12T17:53:00-07:00</attribute>
 <attribute name="Name" >article.html</attribute>
 <attribute name="ReadCount" >213</attribute>
 <attribute name="SelectionCount" >174</attribute>
@@ -1366,10 +1368,10 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </rtf>
 </item>
 <item ID="3358681337" Creator="lmorchard" >
-<attribute name="Created" >2010-06-04T23:22:00-04:00</attribute>
+<attribute name="Created" >2010-06-04T23:22:00-07:00</attribute>
 <attribute name="HTMLExportTemplate" >/Internals/Templates/section.html</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-06-05T17:45:00-04:00</attribute>
+<attribute name="Modified" >2010-06-05T17:45:00-07:00</attribute>
 <attribute name="Name" >section.html</attribute>
 <attribute name="ReadCount" >62</attribute>
 <attribute name="SelectionCount" >48</attribute>
@@ -1396,9 +1398,9 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </rtf>
 </item>
 <item ID="3358681338" Creator="lmorchard" >
-<attribute name="Created" >2010-06-06T13:19:00-04:00</attribute>
+<attribute name="Created" >2010-06-06T13:19:00-07:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-06-06T13:32:00-04:00</attribute>
+<attribute name="Modified" >2010-06-06T13:32:00-07:00</attribute>
 <attribute name="Name" >toc-section.html</attribute>
 <attribute name="ReadCount" >19</attribute>
 <attribute name="SelectionCount" >12</attribute>
@@ -1426,9 +1428,9 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </rtf>
 </item>
 <item ID="3358681352" Creator="lmorchard" >
-<attribute name="Created" >2010-06-06T14:35:00-04:00</attribute>
+<attribute name="Created" >2010-06-06T14:35:00-07:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-06-06T14:35:00-04:00</attribute>
+<attribute name="Modified" >2010-06-06T14:35:00-07:00</attribute>
 <attribute name="Name" >plain.txt</attribute>
 <attribute name="ReadCount" >1</attribute>
 <attribute name="SelectionCount" >8</attribute>
@@ -1451,9 +1453,9 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </item>
 </item>
 <item ID="3359203949" Creator="lmorchard" >
-<attribute name="Created" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="Created" >2010-06-12T16:12:00-07:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-06-12T16:12:00-04:00</attribute>
+<attribute name="Modified" >2010-06-12T16:12:00-07:00</attribute>
 <attribute name="Name" >Scripts</attribute>
 <attribute name="OnAdd" >if ($Prototype=&quot;&quot;) { $Prototype=&quot;*script&quot; }</attribute>
 <attribute name="SelectionCount" >9</attribute>
@@ -1461,8 +1463,8 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 <attribute name="Ypos" >0</attribute>
 <attribute name="id" >29</attribute>
 <item ID="3359203982" Creator="lmorchard" >
-<attribute name="Created" >2010-06-12T16:13:00-04:00</attribute>
-<attribute name="Modified" >2010-06-12T19:27:00-04:00</attribute>
+<attribute name="Created" >2010-06-12T16:13:00-07:00</attribute>
+<attribute name="Modified" >2010-06-12T19:27:00-07:00</attribute>
 <attribute name="Name" >Markdown</attribute>
 <attribute name="ReadCount" >13</attribute>
 <attribute name="SelectionCount" >35</attribute>
@@ -1484,8 +1486,8 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </rtf>
 </item>
 <item ID="3359203983" Creator="lmorchard" >
-<attribute name="Created" >2010-06-12T16:13:00-04:00</attribute>
-<attribute name="Modified" >2010-06-12T16:13:00-04:00</attribute>
+<attribute name="Created" >2010-06-12T16:13:00-07:00</attribute>
+<attribute name="Modified" >2010-06-12T16:13:00-07:00</attribute>
 <attribute name="Name" >Cat</attribute>
 <attribute name="ReadCount" >1</attribute>
 <attribute name="SelectionCount" >11</attribute>
@@ -1507,8 +1509,8 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </rtf>
 </item>
 <item ID="3359209201" Creator="lmorchard" >
-<attribute name="Created" >2010-06-12T17:40:00-04:00</attribute>
-<attribute name="Modified" >2010-06-12T17:45:00-04:00</attribute>
+<attribute name="Created" >2010-06-12T17:40:00-07:00</attribute>
+<attribute name="Modified" >2010-06-12T17:45:00-07:00</attribute>
 <attribute name="Name" >sed</attribute>
 <attribute name="ReadCount" >51</attribute>
 <attribute name="SelectionCount" >24</attribute>
@@ -1530,8 +1532,8 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
 </rtf>
 </item>
 <item ID="3359206861" Creator="lmorchard" >
-<attribute name="Created" >2010-06-12T17:01:00-04:00</attribute>
-<attribute name="Modified" >2010-06-12T17:01:00-04:00</attribute>
+<attribute name="Created" >2010-06-12T17:01:00-07:00</attribute>
+<attribute name="Modified" >2010-06-12T17:01:00-07:00</attribute>
 <attribute name="Name" >vim</attribute>
 <attribute name="ReadCount" >1</attribute>
 <attribute name="SelectionCount" >3</attribute>
@@ -1667,7 +1669,7 @@ The Mozilla Foundation invites all others who support the principles of the Mozi
    <DailyTip > 1</DailyTip>
    <WarnEditingDefault > 1</WarnEditingDefault>
    <WarnDuplicateName > 1</WarnDuplicateName>
-   <Version > version 5.5.3</Version>
+   <Version > version 5.5.4</Version>
    <PreferencePane > 1</PreferencePane>
    <Fontmap > 4
  -16896 Andale Mono
