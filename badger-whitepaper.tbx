@@ -975,15 +975,15 @@ It might sound a bit hokey and precious, and maybe there&apos;d be a danger of b
 <attribute name="Created" >2010-07-22T14:05:00-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-08-09T07:39:00-07:00</attribute>
+<attribute name="Modified" >2010-08-09T07:42:00-07:00</attribute>
 <attribute name="Name" >References / Notes</attribute>
 <attribute name="ReadCount" >19</attribute>
-<attribute name="SelectionCount" >14</attribute>
+<attribute name="SelectionCount" >16</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >17</attribute>
 <attribute name="Ypos" >1</attribute>
 <attribute name="id" >109</attribute>
-<text >This article is mainly a brain dump about what I have in mind so far, but it&apos;s not wholly original or invented in a vacuum. As this develops, I want to start collecting some references to chase down:* &lt;http://en.wikipedia.org/wiki/Wikipedia:Barnstars&gt;* &lt;http://activitystrea.ms/Badge&gt; (via [@chrismessina](http://twitter.com/chrismessina/))* &lt;http://www.slideshare.net/soldierant/designing-your-reputation-system&gt;</text>
+<text >This article is mainly a brain dump about what I have in mind so far, but it&apos;s not wholly original or invented in a vacuum. As this develops, I want to start collecting some references to chase down:* &lt;http://en.wikipedia.org/wiki/Wikipedia:Barnstars&gt;* &lt;http://wiki.activitystrea.ms/Badge&gt; (via [@chrismessina](http://twitter.com/chrismessina/))* &lt;http://www.slideshare.net/soldierant/designing-your-reputation-system&gt;</text>
 <styles >
  <tstyle font="Monaco" bold="0" italic="0" underline="0" start="0" size="14" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -997,7 +997,7 @@ It might sound a bit hokey and precious, and maybe there&apos;d be a danger of b
 {\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 This article is mainly a brain dump about what I have in mind so far, but it&apos;s not wholly original or invented in a vacuum. As this develops, I want to start collecting some references to chase down:\par
 \par
 }{\pard\plain\uc0\f0\fs28\cf0\ql\sb40\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * &lt;http://en.wikipedia.org/wiki/Wikipedia:Barnstars&gt;\par
-* &lt;http://activitystrea.ms/Badge&gt; (via [@chrismessina](http://twitter.com/chrismessina/))\par
+* &lt;http://wiki.activitystrea.ms/Badge&gt; (via [@chrismessina](http://twitter.com/chrismessina/))\par
 * &lt;http://www.slideshare.net/soldierant/designing-your-reputation-system&gt;\par
 }}
 </rtf>
